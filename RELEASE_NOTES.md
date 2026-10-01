@@ -1,25 +1,22 @@
-# Awakepilot 0.14.0
+# Awakepilot 0.14.1
 
-Awakepilot 0.14.0 extends work-aware automation to connected hardware, audio routes,
-and the active network configuration.
+## Reliable updates
 
-## Highlights
+- Fixed installation getting stuck when the About and Updates sheet prevented the app from quitting. The sheet now closes before installation hands over to the updater.
+- If quitting is cancelled, an actionable error appears after five seconds. The installer helper also stops waiting after 30 seconds instead of waiting indefinitely.
+- Automatic checks now run every 24 hours while the app remains open, with a due check after wake. Failed automatic checks retry after an hour; manual checks remain available.
+- Running jobs continue to block installation, including jobs started while an update is being prepared.
 
-- Start automation when a selected USB device is connected.
-- Follow selected paired Bluetooth devices as they connect and disconnect.
-- Keep a session active while a selected macOS audio output is the current route.
-- Match selected DNS server addresses from the active resolver configuration.
-- Match exact IPv4 or IPv6 addresses and CIDR networks.
-- Assign an independent session profile, display policy, and maximum duration to each
-  new condition type.
-- Save the new hardware and network-context rules inside reusable workflow profiles.
-- Add complete English, German, Spanish, French, Azerbaijani, and Turkish interface coverage.
-- Open the disk image with large drag-to-install icons, a directional arrow, and a Retina background.
+## Clearer controls and help
 
-## Privacy and permissions
+- Revised interface text in English, German, Spanish, French, Azerbaijani, and Turkish, including explanations of screen behavior, activity thresholds, automation matching, and time limits.
+- Improved wrapping for longer settings descriptions.
+- Updated the English, German, and Turkish website, support pages, and screenshots.
 
-USB and audio-output detection use local macOS system APIs. Bluetooth rules inspect only
-connected paired-device identity and require the standard macOS Bluetooth permission.
-Device names, DNS server addresses, and IP rules remain in the current macOS user account.
-Diagnostic reports include only rule counts and enabled states; they exclude configured
-device names, DNS servers, IP rules, and activity history.
+## Updating from 0.14.0 or earlier
+
+This first update still uses the updater in your installed version. If **Installing update** remains visible for more than a minute, close **About and Updates**, then quit Awakepilot from the menu bar menu. The prepared update can then finish and relaunch the app. If it does not, install the official DMG included below. The installation fix takes effect once 0.14.1 is installed.
+
+## Distribution
+
+Universal application for Apple Silicon and Intel, signed with Developer ID and notarized by Apple. Requires macOS 13 or later. The ZIP is used by the in-app updater; the DMG provides drag-to-install setup. SHA-256 files are included for both versioned packages.

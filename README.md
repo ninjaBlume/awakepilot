@@ -209,6 +209,16 @@ Before replacing an installed version, Awakepilot verifies:
 The existing application is backed up during replacement and restored if installation
 cannot complete.
 
+With automatic checks enabled, Awakepilot checks every 24 hours while it remains open
+and checks after wake when a check is due. Updates are installed only when you choose.
+Version 0.14.1 closes the About window before quitting for installation and reports an
+error if the app cannot quit.
+
+When updating from 0.14.0 or earlier, if the updater stays on **Installing update** for
+more than a minute, close **About and Updates** and quit Awakepilot from its menu bar
+menu. A prepared update will finish installing and relaunch the app. If it does not,
+install the latest official DMG from the link below.
+
 ## Installation
 
 **Requirements:** macOS 13 Ventura or later on Apple Silicon or Intel.
