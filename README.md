@@ -16,7 +16,7 @@
 <p align="center">
   <img alt="Apple notarized" src="https://img.shields.io/badge/Apple-Notarized-34C759?style=flat-square&logo=apple&logoColor=white">
   <img alt="Latest GitHub release" src="https://img.shields.io/github/v/release/ninjaBlume/awakepilot?style=flat-square&color=FF9F0A">
-  <img alt="Four interface languages" src="https://img.shields.io/badge/Languages-EN%20%C2%B7%20DE%20%C2%B7%20ES%20%C2%B7%20TR-5856D6?style=flat-square">
+  <img alt="Six interface languages" src="https://img.shields.io/badge/Languages-EN%20%C2%B7%20DE%20%C2%B7%20ES%20%C2%B7%20FR%20%C2%B7%20AZ%20%C2%B7%20TR-5856D6?style=flat-square">
 </p>
 
 <p align="center">
@@ -33,8 +33,9 @@
 Traditional keep-awake tools usually provide a timer and leave the rest to the user.
 Awakepilot can follow the work itself. It starts and stops wake protection from observable
 conditions such as a running application, an active terminal process, sustained CPU or
-network activity, a schedule, Wi-Fi, VPN, external power, an attached display, or a
-mounted external drive.
+network activity, a schedule, Wi-Fi, VPN, connected USB or Bluetooth devices, the
+active audio output, DNS servers, IP networks, external power, an attached display,
+or a mounted external drive.
 
 The result is predictable: the Mac remains available while the selected work continues,
 then returns to normal macOS sleep behavior when the active reasons end.
@@ -65,7 +66,7 @@ The menu bar clock shows the current state without opening a window:
 | --- | --- |
 | Manual sessions | Run indefinitely, for a preset or custom duration, or until an exact date and time. |
 | Display policy | Keep the display active or allow it to sleep while the Mac continues working. |
-| Automation | Observe applications, processes, schedules, CPU, network, power, displays, Wi-Fi, VPNs, and external drives. |
+| Automation | Observe applications, processes, schedules, CPU, network, power, displays, Wi-Fi, VPNs, USB, Bluetooth, audio output, DNS, IP networks, and external drives. |
 | Matching | Start when any enabled condition matches or require all enabled conditions to match. |
 | Workflow profiles | Save complete automation configurations and restore them by name. |
 | Per-condition behavior | Choose the session profile, display policy, and maximum duration for each signal type. |
@@ -75,7 +76,7 @@ The menu bar clock shows the current state without opening a window:
 | Safety | Pause for battery limits, UPS battery operation, critical thermal pressure, and duration limits. |
 | Activity history | Keep a bounded local record of meaningful starts, stops, pauses, and condition changes. |
 | Updates | Verify checksums, bundle identity, Developer ID, version, and Gatekeeper approval before installation. |
-| Localization | Provide complete English, German, Spanish, and Turkish interfaces. |
+| Localization | Provide complete English, German, Spanish, French, Azerbaijani, and Turkish interfaces. |
 
 ## Manual sessions
 
@@ -107,13 +108,24 @@ maximum duration applies, and a request to keep the display on takes precedence.
 ```mermaid
 flowchart LR
     Signals[Apps · Processes · CPU · Network · Schedule] --> Rules[Automation rules]
-    Context[Power · Display · Wi-Fi · VPN · Drives] --> Rules
+    Context[Power · Display · Wi-Fi · VPN · Drives · USB · Bluetooth · Audio · DNS · IP] --> Rules
     Rules --> Policy[Profile · Display · Duration]
     Manual[Manual session] --> Session[Wake session]
     Policy --> Session
     Safety[Battery · UPS · Thermal limits] --> Session
     Session --> macOS[Native macOS power assertion]
 ```
+
+### Connected hardware and network context
+
+Choose a USB or paired Bluetooth device to keep the Mac awake while that device is
+connected. Audio rules follow the selected output route, such as a USB audio interface
+or headphones. Network-context rules match exact DNS server addresses, IPv4 or IPv6
+addresses, or CIDR networks. Each condition can use its own session profile, display
+policy, and maximum duration.
+
+Bluetooth rules require the standard macOS Bluetooth permission. Device names and
+network rules stay on the Mac and are excluded from diagnostic exports.
 
 ### Reusable workflow profiles
 
@@ -178,7 +190,8 @@ metadata and download official assets.
 
 Diagnostic reports are created only after an explicit save action. They exclude command
 text, command output, private file paths, Wi-Fi names, volume names, workflow profile
-names, watched applications and processes, license credentials, and activity history.
+names, device names, DNS servers, IP rules, watched applications and processes,
+license credentials, and activity history.
 
 Read the full [privacy policy](https://ninjablume.github.io/awakepilot/privacy.html).
 
