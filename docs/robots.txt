@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ninjablume.github.io/awakepilot/sitemap.xml

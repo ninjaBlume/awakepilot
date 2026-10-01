@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Awakepilot support guide
+    url: https://ninjablume.github.io/awakepilot/support.html
+    about: Read installation, sleep, and diagnostics guidance first.
