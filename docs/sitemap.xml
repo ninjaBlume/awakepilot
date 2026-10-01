@@ -1,7 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://ninjablume.github.io/awakepilot/</loc><priority>1.0</priority></url>
-  <url><loc>https://ninjablume.github.io/awakepilot/support.html</loc><priority>0.7</priority></url>
-  <url><loc>https://ninjablume.github.io/awakepilot/privacy.html</loc><priority>0.6</priority></url>
-  <url><loc>https://ninjablume.github.io/awakepilot/pricing.html</loc><priority>0.7</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ninjablume.github.io/awakepilot/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ninjablume.github.io/awakepilot/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://ninjablume.github.io/awakepilot/de/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ninjablume.github.io/awakepilot/tr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ninjablume.github.io/awakepilot/"/>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ninjablume.github.io/awakepilot/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ninjablume.github.io/awakepilot/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://ninjablume.github.io/awakepilot/de/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ninjablume.github.io/awakepilot/tr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ninjablume.github.io/awakepilot/"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ninjablume.github.io/awakepilot/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ninjablume.github.io/awakepilot/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://ninjablume.github.io/awakepilot/de/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ninjablume.github.io/awakepilot/tr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ninjablume.github.io/awakepilot/"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ninjablume.github.io/awakepilot/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ninjablume.github.io/awakepilot/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://ninjablume.github.io/awakepilot/de/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ninjablume.github.io/awakepilot/tr/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ninjablume.github.io/awakepilot/pricing.html"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ninjablume.github.io/awakepilot/de/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ninjablume.github.io/awakepilot/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://ninjablume.github.io/awakepilot/de/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ninjablume.github.io/awakepilot/tr/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ninjablume.github.io/awakepilot/pricing.html"/>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ninjablume.github.io/awakepilot/tr/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ninjablume.github.io/awakepilot/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://ninjablume.github.io/awakepilot/de/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ninjablume.github.io/awakepilot/tr/pricing.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ninjablume.github.io/awakepilot/pricing.html"/>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ninjablume.github.io/awakepilot/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ninjablume.github.io/awakepilot/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://ninjablume.github.io/awakepilot/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ninjablume.github.io/awakepilot/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ninjablume.github.io/awakepilot/support.html"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ninjablume.github.io/awakepilot/de/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ninjablume.github.io/awakepilot/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://ninjablume.github.io/awakepilot/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ninjablume.github.io/awakepilot/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ninjablume.github.io/awakepilot/support.html"/>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ninjablume.github.io/awakepilot/tr/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ninjablume.github.io/awakepilot/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://ninjablume.github.io/awakepilot/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ninjablume.github.io/awakepilot/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ninjablume.github.io/awakepilot/support.html"/>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ninjablume.github.io/awakepilot/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ninjablume.github.io/awakepilot/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://ninjablume.github.io/awakepilot/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ninjablume.github.io/awakepilot/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ninjablume.github.io/awakepilot/privacy.html"/>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ninjablume.github.io/awakepilot/de/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ninjablume.github.io/awakepilot/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://ninjablume.github.io/awakepilot/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ninjablume.github.io/awakepilot/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ninjablume.github.io/awakepilot/privacy.html"/>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ninjablume.github.io/awakepilot/tr/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ninjablume.github.io/awakepilot/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://ninjablume.github.io/awakepilot/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ninjablume.github.io/awakepilot/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ninjablume.github.io/awakepilot/privacy.html"/>
+    <priority>0.5</priority>
+  </url>
 </urlset>
