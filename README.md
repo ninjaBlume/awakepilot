@@ -255,3 +255,14 @@ Apple-notarized application. This public repository provides:
 
 Application source code, signing credentials, fulfillment services, and private build
 infrastructure are maintained separately.
+
+## Website release notes
+
+The release notes shown on the website (English, German, Turkish) live in `scripts/releases_data.py`.
+To publish a new release, add an entry at the top of `RELEASES` and run:
+
+```sh
+python3 scripts/build_releases.py
+```
+
+This regenerates `docs/releases.html`, `docs/de/releases.html`, and `docs/tr/releases.html` using the header and footer of each language's support page. Commit the result; the Pages workflow publishes it.

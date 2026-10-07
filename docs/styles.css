@@ -165,3 +165,25 @@ svg { width: 1.15em; height: 1.15em; fill: none; stroke: currentColor; stroke-wi
 .made-by a { display: inline-flex; align-items: center; gap: 6px; color: var(--ink); font-size: 11px; font-weight: 650; letter-spacing: .16em; text-decoration: none; text-transform: uppercase; }
 .made-by a:hover { color: var(--ink-soft); }
 .codentum-mark { flex: none; }
+
+/* Release notes */
+.release-actions { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-top: 30px; }
+.release-list { display: grid; gap: 22px; min-width: 0; }
+.release { scroll-margin-top: 110px; border: 1px solid var(--line); border-radius: 24px; background: #fff; padding: 32px 34px; box-shadow: 0 10px 30px rgba(25,32,56,.035); }
+.release-latest { border-color: rgba(255,151,63,.5); box-shadow: 0 18px 50px rgba(241,90,102,.09); }
+.release-head { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; }
+.release-head h2 { margin: 0; font-size: 42px; line-height: 1; letter-spacing: -.05em; }
+.release-latest .release-head h2 { background: linear-gradient(100deg,var(--orange),var(--coral)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.release-badge { border: 1px solid var(--line); border-radius: 999px; background: #fff; padding: 4px 11px; color: var(--ink-soft); font-size: 12px; font-weight: 700; }
+.release-head time { margin-left: auto; color: var(--muted); font-size: 14px; }
+.release-summary { margin: 14px 0 0; color: var(--ink-soft); font-size: 18px; }
+.release h3 { margin: 28px 0 12px; font-size: 15px; font-weight: 760; letter-spacing: -.01em; }
+.release ul { display: grid; gap: 10px; margin: 0; padding: 0; list-style: none; }
+.release li { position: relative; padding-left: 22px; color: var(--muted); }
+.release li::before { content: ""; position: absolute; left: 3px; top: .66em; width: 7px; height: 7px; border-radius: 3px; background: linear-gradient(135deg,var(--orange),var(--coral)); }
+.release h3 + p { margin: 0; color: var(--muted); }
+.release code { overflow-wrap: anywhere; }
+.release-note { margin-top: 26px; border: 1px solid #ffe1c4; border-radius: 16px; background: #fff7ef; padding: 18px 20px; }
+.release-note strong { display: block; margin-bottom: 6px; color: var(--ink); }
+.release-note p { margin: 0; color: var(--ink-soft); font-size: 15px; }
+@media (max-width: 640px) { .release { padding: 24px 20px; border-radius: 20px; } .release-head h2 { font-size: 36px; } .release-head time { margin-left: 0; flex-basis: 100%; } }
