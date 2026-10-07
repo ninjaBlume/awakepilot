@@ -23,7 +23,7 @@
   <a href="https://github.com/ninjaBlume/awakepilot/releases/latest/download/Awakepilot.dmg"><strong>Download Awakepilot</strong></a>
   · <a href="https://awakepilot.codentum.net/"><strong>Website</strong></a>
   · <a href="https://awakepilot.codentum.net/support.html"><strong>Support</strong></a>
-  · <a href="https://github.com/ninjaBlume/awakepilot/releases"><strong>Release notes</strong></a>
+  · <a href="https://awakepilot.codentum.net/releases.html"><strong>Release notes</strong></a>
 </p>
 
 ---
@@ -234,7 +234,7 @@ Settings → General → Language & Region**, including app-specific language se
 ## Support
 
 - [Installation and troubleshooting](https://awakepilot.codentum.net/support.html)
-- [Release history](https://github.com/ninjaBlume/awakepilot/releases)
+- [Release history](https://awakepilot.codentum.net/releases.html)
 - [Report a reproducible problem](https://github.com/ninjaBlume/awakepilot/issues/new/choose)
 - [Security policy](SECURITY.md)
 
@@ -255,14 +255,3 @@ Apple-notarized application. This public repository provides:
 
 Application source code, signing credentials, fulfillment services, and private build
 infrastructure are maintained separately.
-
-## Website release notes
-
-The release notes shown on the website (English, German, Turkish) live in `scripts/releases_data.py`.
-To publish a new release, add an entry at the top of `RELEASES` and run:
-
-```sh
-python3 scripts/build_releases.py
-```
-
-This regenerates `docs/releases.html`, `docs/de/releases.html`, and `docs/tr/releases.html` using the header and footer of each language's support page. Commit the result; the Pages workflow publishes it.
