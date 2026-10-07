@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ninjablume.github.io/awakepilot/sitemap.xml
+Sitemap: https://awakepilot.codentum.net/sitemap.xml
