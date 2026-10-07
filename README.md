@@ -21,8 +21,8 @@
 
 <p align="center">
   <a href="https://github.com/ninjaBlume/awakepilot/releases/latest/download/Awakepilot.dmg"><strong>Download Awakepilot</strong></a>
-  · <a href="https://ninjablume.github.io/awakepilot/"><strong>Website</strong></a>
-  · <a href="https://ninjablume.github.io/awakepilot/support.html"><strong>Support</strong></a>
+  · <a href="https://awakepilot.codentum.net/"><strong>Website</strong></a>
+  · <a href="https://awakepilot.codentum.net/support.html"><strong>Support</strong></a>
   · <a href="https://github.com/ninjaBlume/awakepilot/releases"><strong>Release notes</strong></a>
 </p>
 
@@ -193,7 +193,7 @@ text, command output, private file paths, Wi-Fi names, volume names, workflow pr
 names, device names, DNS servers, IP rules, watched applications and processes,
 license credentials, and activity history.
 
-Read the full [privacy policy](https://ninjablume.github.io/awakepilot/privacy.html).
+Read the full [privacy policy](https://awakepilot.codentum.net/privacy.html).
 
 ## Verified updates
 
@@ -233,7 +233,7 @@ Settings → General → Language & Region**, including app-specific language se
 
 ## Support
 
-- [Installation and troubleshooting](https://ninjablume.github.io/awakepilot/support.html)
+- [Installation and troubleshooting](https://awakepilot.codentum.net/support.html)
 - [Release history](https://github.com/ninjaBlume/awakepilot/releases)
 - [Report a reproducible problem](https://github.com/ninjaBlume/awakepilot/issues/new/choose)
 - [Security policy](SECURITY.md)
