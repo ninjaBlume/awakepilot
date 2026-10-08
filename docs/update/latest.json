@@ -1,31 +1,31 @@
 {
-  "tag_name": "v0.14.2",
-  "name": "Awakepilot 0.14.2",
-  "body": "# Awakepilot 0.14.2\n\n## Ten interface languages\n\n- Added Italian, Brazilian Portuguese, Japanese, and Korean, alongside English, German, Spanish, French, Azerbaijani, and Turkish.\n- Translated all 559 interface strings and the macOS Bluetooth and Wi-Fi permission descriptions in each new language.\n- Adjusted longer Italian and Portuguese picker labels to fit their controls.\n- The English, German, and Turkish website now lists all ten app languages.\n\n## Updates on the Awakepilot website\n\n- Update checks and official package downloads now use awakepilot.codentum.net.\n- Release notes open on the website in English, German, or Turkish, according to the app language. Other app languages use English release notes.\n- GitHub Releases remains available so earlier installations can find this update.\n- Existing checksum, Developer ID, bundle identity, and Gatekeeper verification remains in place.\n\n## Updating from 0.14.0 or earlier\n\nIf **Installing update** remains visible for more than a minute, close **About and Updates**, then quit Awakepilot from its menu bar menu. The prepared update can then finish and relaunch the app. If it does not, install the latest official DMG. Versions 0.14.1 and later include the installation fix.\n\n## Distribution\n\nUniversal application for Apple Silicon and Intel, signed with Developer ID and notarized by Apple. Requires macOS 13 or later. The ZIP is used by the in-app updater; the DMG provides drag-to-install setup. SHA-256 files are included for both versioned packages.\n",
-  "published_at": "2026-10-08T00:50:20Z",
+  "tag_name": "v0.14.3",
+  "name": "Awakepilot 0.14.3",
+  "body": "# Awakepilot 0.14.3\n\n## Responsive VPN detection\n\n- VPN checks run in the background with cached results, a two-second timeout, and bounded output. A stalled VPN query no longer blocks the interface.\n- Detection continues to support third-party VPN services registered with macOS.\n\n## Easier automation setup\n\n- Added five ready-made templates for video encoding, builds, file transfers, downloads, and presentations, with two- or four-hour limits.\n- Saving a template leaves current rules and sessions unchanged. Apply a saved profile to activate its configuration.\n- Automation settings now use separate sections, with expandable USB, Bluetooth, audio, DNS, and IP controls.\n\n## Portable workflow profiles\n\n- Export and import complete automation profiles as versioned JSON files.\n- Imports preserve existing profiles, active rules, and running sessions. Conflicting names are renamed, and invalid files are rejected before changes are applied.\n- Exported files may include configured device and network names. Review imported Drive Alive settings before applying a profile.\n\n## Language-aware links\n\n- Home, support, pricing, and release-note links follow all ten interface languages, including regional language preferences.\n\n## Updating from 0.14.0 or earlier\n\nIf **Installing update** remains visible for more than a minute, close **About and Updates**, then quit Awakepilot from its menu bar menu. The prepared update can then finish and relaunch the app. If it does not, install the latest official DMG. Versions 0.14.1 and later include the installation fix.\n\n## Distribution\n\nUniversal application for Apple Silicon and Intel, signed with Developer ID and notarized by Apple. Requires macOS 13 or later. The ZIP is used by the in-app updater; the DMG provides drag-to-install setup. SHA-256 files are included for both versioned packages.\n",
+  "published_at": "2026-10-08T03:09:47Z",
   "assets": [
     {
-      "name": "Awakepilot-0.14.2.zip",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.14.2.zip",
-      "digest": "sha256:762819b765f803dabe3c449f4680b03157ce5ccedca24289140c225c3b8a38de"
+      "name": "Awakepilot-0.14.3.zip",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.14.3.zip",
+      "digest": "sha256:386e6f4574fbd1fcf559e477bf1083068481aa1106c7935f958730f22c793858"
     },
     {
-      "name": "Awakepilot-0.14.2.zip.sha256",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.14.2.zip.sha256"
+      "name": "Awakepilot-0.14.3.zip.sha256",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.14.3.zip.sha256"
     },
     {
-      "name": "Awakepilot-0.14.2.dmg",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.14.2.dmg",
-      "digest": "sha256:40eb2baedf77183aabb4708878c46e73345ce128e925d6fc9564a2a600478ea2"
+      "name": "Awakepilot-0.14.3.dmg",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.14.3.dmg",
+      "digest": "sha256:2784dbe8e45526ef507510140c4eb12ec5bad771bf9efa873bbec1b4c6f73181"
     },
     {
-      "name": "Awakepilot-0.14.2.dmg.sha256",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.14.2.dmg.sha256"
+      "name": "Awakepilot-0.14.3.dmg.sha256",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.14.3.dmg.sha256"
     },
     {
       "name": "Awakepilot.dmg",
       "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot.dmg",
-      "digest": "sha256:40eb2baedf77183aabb4708878c46e73345ce128e925d6fc9564a2a600478ea2"
+      "digest": "sha256:2784dbe8e45526ef507510140c4eb12ec5bad771bf9efa873bbec1b4c6f73181"
     }
   ]
 }

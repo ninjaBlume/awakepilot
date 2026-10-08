@@ -1,18 +1,25 @@
-# Awakepilot 0.14.2
+# Awakepilot 0.14.3
 
-## Ten interface languages
+## Responsive VPN detection
 
-- Added Italian, Brazilian Portuguese, Japanese, and Korean, alongside English, German, Spanish, French, Azerbaijani, and Turkish.
-- Translated all 559 interface strings and the macOS Bluetooth and Wi-Fi permission descriptions in each new language.
-- Adjusted longer Italian and Portuguese picker labels to fit their controls.
-- The English, German, and Turkish website now lists all ten app languages.
+- VPN checks run in the background with cached results, a two-second timeout, and bounded output. A stalled VPN query no longer blocks the interface.
+- Detection continues to support third-party VPN services registered with macOS.
 
-## Updates on the Awakepilot website
+## Easier automation setup
 
-- Update checks and official package downloads now use awakepilot.codentum.net.
-- Release notes open on the website in English, German, or Turkish, according to the app language. Other app languages use English release notes.
-- GitHub Releases remains available so earlier installations can find this update.
-- Existing checksum, Developer ID, bundle identity, and Gatekeeper verification remains in place.
+- Added five ready-made templates for video encoding, builds, file transfers, downloads, and presentations, with two- or four-hour limits.
+- Saving a template leaves current rules and sessions unchanged. Apply a saved profile to activate its configuration.
+- Automation settings now use separate sections, with expandable USB, Bluetooth, audio, DNS, and IP controls.
+
+## Portable workflow profiles
+
+- Export and import complete automation profiles as versioned JSON files.
+- Imports preserve existing profiles, active rules, and running sessions. Conflicting names are renamed, and invalid files are rejected before changes are applied.
+- Exported files may include configured device and network names. Review imported Drive Alive settings before applying a profile.
+
+## Language-aware links
+
+- Home, support, pricing, and release-note links follow all ten interface languages, including regional language preferences.
 
 ## Updating from 0.14.0 or earlier
 
