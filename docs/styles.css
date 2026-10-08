@@ -8,6 +8,8 @@
 html { scroll-behavior: smooth; scroll-padding-top: 96px; }
 body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.6 -apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",sans-serif; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
 main { overflow-wrap: anywhere; }
+html:lang(ja) { line-break: strict; }
+html:lang(ko) { word-break: keep-all; }
 [lang="de"] .pricing-hero h1 { hyphens: auto; }
 a { color: inherit; } img { display: block; max-width: 100%; height: auto; }
 svg { width: 1.15em; height: 1.15em; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
@@ -31,7 +33,7 @@ svg { width: 1.15em; height: 1.15em; fill: none; stroke: currentColor; stroke-wi
 .language-flag { width: 24px; height: 16px; flex: 0 0 24px; object-fit: cover; border-radius: 3px; box-shadow: 0 0 0 1px rgba(18,24,42,.1); }
 .language-chevron { width: 14px; height: 14px; color: var(--muted); transition: transform .15s ease; }
 .language-switcher[open] .language-chevron { transform: rotate(180deg); }
-.language-options { position: absolute; top: calc(100% + 9px); right: 0; z-index: 60; display: grid; gap: 3px; width: 206px; max-width: calc(100vw - 32px); padding: 7px; border: 1px solid var(--line); border-radius: 15px; background: var(--surface); box-shadow: 0 16px 46px rgba(22,30,55,.16); }
+.language-options { position: absolute; top: calc(100% + 9px); right: 0; z-index: 60; display: grid; gap: 3px; width: 256px; max-width: calc(100vw - 32px); max-height: min(520px,calc(100dvh - 100px)); overflow-y: auto; overscroll-behavior: contain; padding: 7px; border: 1px solid var(--line); border-radius: 15px; background: var(--surface); box-shadow: 0 16px 46px rgba(22,30,55,.16); }
 .language-options a { display: flex; align-items: center; gap: 11px; min-height: 44px; padding: 9px 11px; border-radius: 9px; color: var(--ink-soft); text-decoration: none; }
 .language-options a:hover { background: var(--surface-soft); color: var(--ink); }
 .language-options a[aria-current="page"] { background: var(--navy); color: #fff; }
