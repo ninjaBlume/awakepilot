@@ -26,8 +26,10 @@
   · <a href="https://awakepilot.codentum.net/releases.html"><strong>Release notes</strong></a>
 </p>
 
-The [product website](https://awakepilot.codentum.net/) is available in English, German,
-Spanish, and Turkish, with app screenshots in each language.
+The [product website](https://awakepilot.codentum.net/) matches all ten application
+languages: English, German, Spanish, Turkish, French, Azerbaijani, Italian, Brazilian
+Portuguese, Japanese, and Korean. Each language includes localized app screenshots,
+pricing, support, privacy information, and the complete release history.
 
 ---
 

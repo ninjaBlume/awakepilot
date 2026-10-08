@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="빌드, 영상 내보내기, 파일 전송 중 Mac의 잠자기를 방지합니다. 시간이나 규칙을 선택하면 보호가 끝난 뒤 일반 잠자기 설정이 적용됩니다.">
+  <meta name="theme-color" content="#0b1020">
+  <meta property="og:title" content="Awakepilot — Mac을 깨어 있게">
+  <meta property="og:description" content="macOS의 긴 작업을 위한, 작동 이유를 알 수 있는 잠자기 방지 자동화.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ko_KR">
+  <meta property="og:url" content="https://awakepilot.codentum.net/ko/">
+  <meta property="og:image" content="https://awakepilot.codentum.net/assets/icon-512.png">
+  <link rel="canonical" href="https://awakepilot.codentum.net/ko/">
+  <link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/">
+  <link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/">
+  <link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/">
+  <link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/">
+  <link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/">
+  <link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/">
+  <link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/">
+  <link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/">
+  <link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/">
+  <link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/">
+  <link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/">
+  <title>Awakepilot — Mac을 깨어 있게</title>
+  <link rel="icon" href="../assets/icon-192.png">
+  <link rel="apple-touch-icon" href="../assets/icon-192.png">
+  <link rel="stylesheet" href="../styles.css?v=20261008-8">
+  <script src="../language-menu.js?v=20261008-8" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">본문으로 이동</a>
+  <header class="site-header">
+    <nav class="nav shell" aria-label="주 탐색">
+      <a class="brand" href="./" aria-label="Awakepilot 홈"><img src="../assets/icon-192.png" alt="" width="42" height="42"><span>Awakepilot</span></a>
+      <div class="nav-links"><a href="#features">기능</a><a href="#automation">자동화</a><a href="#workflows">워크플로</a><a href="pricing.html">가격</a><a href="support.html">지원</a></div>
+      <div class="nav-actions"><details class="language-switcher"><summary aria-label="언어: 한국어"><img class="language-flag" src="../assets/flags/ko.svg" alt="" width="24" height="16"><span>KO</span><svg class="language-chevron" aria-hidden="true" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg></summary><nav class="language-options" aria-label="언어"><a href="https://awakepilot.codentum.net/" lang="en" hreflang="en"><img class="language-flag" src="../assets/flags/en.svg" alt="" width="24" height="16"><span class="language-name">English</span><span class="language-code">EN</span></a><a href="https://awakepilot.codentum.net/de/" lang="de" hreflang="de"><img class="language-flag" src="../assets/flags/de.svg" alt="" width="24" height="16"><span class="language-name">Deutsch</span><span class="language-code">DE</span></a><a href="https://awakepilot.codentum.net/es/" lang="es" hreflang="es"><img class="language-flag" src="../assets/flags/es.svg" alt="" width="24" height="16"><span class="language-name">Español</span><span class="language-code">ES</span></a><a href="https://awakepilot.codentum.net/tr/" lang="tr" hreflang="tr"><img class="language-flag" src="../assets/flags/tr.svg" alt="" width="24" height="16"><span class="language-name">Türkçe</span><span class="language-code">TR</span></a><a href="https://awakepilot.codentum.net/fr/" lang="fr" hreflang="fr"><img class="language-flag" src="../assets/flags/fr.svg" alt="" width="24" height="16"><span class="language-name">Français</span><span class="language-code">FR</span></a><a href="https://awakepilot.codentum.net/az/" lang="az" hreflang="az"><img class="language-flag" src="../assets/flags/az.svg" alt="" width="24" height="16"><span class="language-name">Azərbaycanca</span><span class="language-code">AZ</span></a><a href="https://awakepilot.codentum.net/it/" lang="it" hreflang="it"><img class="language-flag" src="../assets/flags/it.svg" alt="" width="24" height="16"><span class="language-name">Italiano</span><span class="language-code">IT</span></a><a href="https://awakepilot.codentum.net/pt-BR/" lang="pt-BR" hreflang="pt-BR"><img class="language-flag" src="../assets/flags/pt-BR.svg" alt="" width="24" height="16"><span class="language-name">Português (Brasil)</span><span class="language-code">PT-BR</span></a><a href="https://awakepilot.codentum.net/ja/" lang="ja" hreflang="ja"><img class="language-flag" src="../assets/flags/ja.svg" alt="" width="24" height="16"><span class="language-name">日本語</span><span class="language-code">JA</span></a><a href="https://awakepilot.codentum.net/ko/" lang="ko" hreflang="ko" aria-current="page"><img class="language-flag" src="../assets/flags/ko.svg" alt="" width="24" height="16"><span class="language-name">한국어</span><span class="language-code">KO</span></a></nav></details><a class="button button-small" href="https://awakepilot.codentum.net/download/Awakepilot.dmg">다운로드 <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v12m0 0 5-5m-5 5-5-5M5 21h14"/></svg></a></div>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero shell">
+      <div class="hero-copy">
+        <a class="release-pill" href="releases.html"><span class="release-dot"></span>Awakepilot 0.14.2 출시<svg aria-hidden="true" viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></svg></a>
+        <h1>Mac을 깨어 있게<br><span>작업이 계속되는 동안.</span></h1>
+        <p class="hero-lead">빌드, 영상 내보내기, 대용량 전송 중 자동 잠자기를 막습니다. 시간이나 조건을 설정하세요. 시간이 끝나거나 조건이 해제되면 보호를 종료하지만, 다른 작업이 필요로 하면 유지합니다.</p>
+        <div class="hero-actions">
+          <a class="button button-large" href="https://awakepilot.codentum.net/download/Awakepilot.dmg"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v12m0 0 5-5m-5 5-5-5M5 21h14"/></svg>Mac용 다운로드</a>
+          <a class="button button-ghost button-large" href="releases.html">릴리스 노트<svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 12h14m-5-5 5 5-5 5"/></svg></a>
+        </div>
+        <div class="compatibility" aria-label="호환성">
+          <span><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M16.7 13.5c0-2.5 2.1-3.7 2.2-3.8a4.8 4.8 0 0 0-3.8-2.1c-1.6-.2-3.1.9-3.9.9-.8 0-2-.9-3.3-.9a5 5 0 0 0-4.2 2.6c-1.8 3.1-.5 7.7 1.3 10.2.9 1.2 1.9 2.6 3.2 2.5 1.3-.1 1.8-.8 3.4-.8 1.6 0 2 .8 3.4.8 1.4 0 2.3-1.2 3.1-2.5a11 11 0 0 0 1.4-2.9 4.4 4.4 0 0 1-2.8-4ZM14.1 5.9A4.5 4.5 0 0 0 15.2 2a4.6 4.6 0 0 0-3.1 1.5A4.2 4.2 0 0 0 11 7.3a3.8 3.8 0 0 0 3.1-1.4Z"/></svg>macOS 13+</span>
+          <span>Apple Silicon + Intel</span><span>서명 및 Apple 공증 완료</span>
+        </div>
+      </div>
+
+      <div class="hero-visual" aria-label="Awakepilot 앱 미리 보기">
+        <div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
+        <div class="app-window main-window"><div class="window-bar"><i></i><i></i><i></i><span>Awakepilot</span></div><img src="../assets/dashboard-ko.png" alt="활성 세션과 실시간 시스템 지표를 표시하는 Awakepilot 대시보드" width="740" height="740" fetchpriority="high"></div>
+        <div class="app-window mini-window"><div class="window-bar"><i></i><i></i><i></i></div><img src="../assets/menu-panel-ko.png" alt="Awakepilot의 간결한 메뉴 막대 패널" width="390" height="544"></div>
+        <div class="floating-status"><span></span>Mac 잠자기 방지 중</div>
+      </div>
+    </section>
+
+    <section class="trust-strip" aria-label="제품 특징"><div class="shell trust-grid">
+      <div><strong>15가지 시작 조건</strong><span>프로세스, CPU, Wi-Fi, VPN, 드라이브</span></div><div><strong>조건별 설정</strong><span>규칙마다 프로필, 화면 동작, 안전 한도 지정</span></div><div><strong>개인정보를 고려한 설계</strong><span>계정, 분석, 광고, 원격 측정 없음</span></div><div><strong>10개 언어</strong><span>영어, 독일어, 스페인어, 프랑스어, 아제르바이잔어, 튀르키예어, 이탈리아어, 브라질 포르투갈어, 일본어, 한국어</span></div>
+    </div></section>
+
+    <section class="section shell" id="features">
+      <div class="section-heading centered"><span class="kicker">완료해야 하는 작업을 위해</span><h2>타이머로 시작하세요.<br>필요할 때 규칙을 추가하세요.</h2><p>시간이나 시작 조건을 선택하세요. 보호가 끝나면 Mac은 일반 잠자기 설정을 따릅니다. 즉시 잠자기로 전환하지는 않습니다.</p></div>
+      <div class="feature-grid">
+        <article class="feature-card"><div class="feature-icon orange"><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M12 7v5l3 2"/></svg></div><h3>유연한 세션</h3><p>무제한, 지정한 시간, 또는 정확한 날짜와 시각까지 잠자기를 방지합니다.</p><div class="timer-demo"><span>15분</span><span>1시간</span><span class="active">2시간</span><span>∞</span></div></article>
+        <article class="feature-card"><div class="feature-icon blue"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 18V9m5 9V5m6 13v-7m5 7V3"/></svg></div><h3>실시간 시스템 정보</h3><p>CPU, 메모리, 다운로드와 업로드를 명확한 실시간 그래프로 확인하세요.</p><div class="spark-demo"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></article>
+        <article class="feature-card"><div class="feature-icon violet"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v3m0 12v3M3 12h3m12 0h3M5.6 5.6l2.1 2.1m8.6 8.6 2.1 2.1m0-12.8-2.1 2.1m-8.6 8.6-2.1 2.1"/><circle cx="12" cy="12" r="4"/></svg></div><h3>스마트 자동화</h3><p>먼저 감시할 대상을 선택하세요. 앱이 열려 있거나, 프로세스가 실행 중이거나, 선택한 드라이브가 연결되어 있으면 Mac을 깨어 있게 합니다.</p><div class="rule-demo"><span><i></i>xcodebuild 실행 중</span><b>활성</b></div></article>
+        <article class="feature-card"><div class="feature-icon green"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M14 3 6 14h6l-2 7 8-11h-6l2-7Z"/></svg></div><h3>전원 상태 고려</h3><p>전원 어댑터, 배터리 한도, UPS 상태와 화면 설정을 따릅니다.</p></article>
+        <article class="feature-card"><div class="feature-icon pink"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 7h6l2 2h8v10H4V7Z"/><path d="M8 14h8m-3-3 3 3-3 3"/></svg></div><h3>Drive Alive</h3><p>선택한 쓰기 가능한 외장 드라이브의 작은 파일을 주기적으로 갱신하여 드라이브의 작동 유지를 돕습니다.</p></article>
+        <article class="feature-card"><div class="feature-icon slate"><svg aria-hidden="true" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="M7 10h2m2 0h2m2 0h2M7 14h10"/></svg></div><h3>이유가 보이는 기록</h3><p>언제 보호가 시작되었고 왜 유지되었으며 언제 끝났는지 확인하세요.</p></article>
+      </div>
+    </section>
+
+    <section class="section automation-section" id="automation"><div class="shell split-showcase">
+      <div class="showcase-visual"><div class="app-window flat-window"><div class="window-bar"><i></i><i></i><i></i><span>자동화</span></div><img src="../assets/automation-ko.png" alt="Awakepilot 자동화 프로필과 조건별 제어" width="740" height="740" loading="lazy" decoding="async"></div></div>
+      <div class="showcase-copy"><span class="kicker">이유를 알 수 있는 자동화</span><h2>Mac을 깨어 있게 할 때를 선택하세요.</h2><p>잠자기를 막고 있는 앱, 프로세스, 조건을 확인하세요. 규칙이 더 이상 성립하지 않고 다른 작업도 보호를 필요로 하지 않으면 일반 잠자기 설정이 적용됩니다.</p><p>앱이 열려 있다고 작업이 계속된다는 뜻은 아닙니다. CPU나 네트워크 활동이 줄어도 작업 완료를 확인할 수 없습니다.</p><ul class="check-list"><li><span>✓</span><div><strong>앱, 프로세스, 연결</strong><small>실행 중인 앱, 터미널 도구, Wi-Fi, VPN, 외장 드라이브와 명령을 따릅니다.</small></div></li><li><span>✓</span><div><strong>이름 있는 자동화 프로필</strong><small>규칙 묶음을 저장하고 사무실, 이동, 렌더링, 다운로드 작업에 맞게 전환하세요.</small></div></li><li><span>✓</span><div><strong>조건별 설정</strong><small>조건마다 세션 프로필, 화면 동작, 시간 한도를 선택하세요.</small></div></li><li><span>✓</span><div><strong>확인 가능한 기록과 안전 한도</strong><small>시작, 중지, 변경을 확인하면서 배터리와 온도 한도를 유지합니다.</small></div></li></ul></div>
+    </div></section>
+
+    <section class="section shell rules-section" id="workflows">
+      <div class="section-heading centered"><span class="kicker">읽을 수 있는 규칙</span><h2>문장처럼 자동화를 구성하세요.</h2><p>감시 대상, 화면 동작, 시간 한도를 선택하세요. 활성 조건과 최근 변경 사항은 앱에서 확인합니다.</p></div>
+      <div class="rule-canvas" aria-label="Awakepilot 자동화 예시">
+        <div class="rule-step"><span class="step-label">조건</span><h3>다음 조건 중 하나가 충족되면</h3><div class="signal-chips"><span class="chip-active">⌘ xcodebuild</span><span>CPU ≥ 65%</span><span>스튜디오 Wi-Fi</span><span>업무 VPN</span><span>보관용 SSD</span></div><small>동시에 모두 필요하면 “모든 조건”을 선택하세요.</small></div>
+        <div class="rule-arrow" aria-hidden="true">→</div>
+        <div class="rule-step rule-result"><span class="step-label">동작</span><h3>작업 프로필 사용</h3><div class="policy-list"><span><i></i>Mac 잠자기 방지</span><span><i></i>디스플레이 잠자기 허용</span><span><i></i>4시간 후 중지</span></div><small>조건마다 별도의 프로필, 화면 동작, 한도를 지정할 수 있습니다.</small></div>
+        <div class="rule-arrow" aria-hidden="true">→</div>
+        <div class="rule-step rule-restore"><span class="step-label">마지막으로</span><h3>잠자기 방지 종료</h3><div class="restore-clock"><span></span><b>자동</b></div><small>다른 작업이나 규칙이 활성 상태가 아니면 일반 잠자기 설정을 따릅니다. 이전 화면 및 타이머 설정을 복원합니다.</small></div>
+      </div>
+      <div class="workflow-grid">
+        <article class="workflow-card"><div class="workflow-head"><span class="workflow-icon office">⌁</span><div><small>이름 있는 프로필</small><h3>사무실</h3></div><b>규칙 4개</b></div><p>스튜디오 네트워크나 업무 VPN에서 시작합니다. 통화에 필요한 화면을 유지하고 안전 한도에서 중지합니다.</p><div class="workflow-tags"><span>Wi-Fi</span><span>VPN</span><span>화면 켜짐</span></div></article>
+        <article class="workflow-card"><div class="workflow-head"><span class="workflow-icon render">◫</span><div><small>이름 있는 프로필</small><h3>야간 렌더링</h3></div><b>규칙 3개</b></div><p>내보내기 프로세스를 이름으로 감시하고 화면 꺼짐을 허용합니다. 프로세스가 끝나면 보호를 해제하지만, 다른 규칙이나 작업이 필요로 하면 유지합니다.</p><div class="workflow-tags"><span>프로세스</span><span>CPU</span><span>8시간 한도</span></div></article>
+        <article class="workflow-card"><div class="workflow-head"><span class="workflow-icon backup">↻</span><div><small>이름 있는 프로필</small><h3>백업 드라이브</h3></div><b>규칙 2개</b></div><p>보관 디스크가 마운트되면 복사를 보호합니다. Drive Alive는 선택한 쓰기 가능한 볼륨에만 사용합니다.</p><div class="workflow-tags"><span>드라이브</span><span>Drive Alive</span><span>화면 꺼짐</span></div></article>
+      </div>
+    </section>
+
+    <section class="section signal-section">
+      <div class="shell signal-layout">
+        <div class="signal-copy"><span class="kicker light">언제 Mac이 깨어 있어야 하나요?</span><h2>작업에 필요한 부분을 감시하세요.</h2><p>한 조건으로 시작하거나 모든 조건을 요구하세요. 예를 들어 사무실 Wi-Fi에 연결되고 외장 드라이브가 연결된 경우입니다.</p><div class="signal-note"><strong>Mac이 깨어 있는 이유를 확인하세요.</strong><span>패널에서 활성 조건을, 기록에서 최근 변경을 확인하세요.</span></div></div>
+        <div class="signal-board" aria-label="지원하는 자동화 조건">
+          <div><span class="signal-glyph violet">▣</span><b>응용 프로그램</b><small>Safari, Xcode, Final Cut 또는 모든 앱</small></div>
+          <div><span class="signal-glyph orange">⌘</span><b>프로세스</b><small>에이전트, 빌드, 인코더, 스크립트</small></div>
+          <div><span class="signal-glyph blue">⌁</span><b>Wi-Fi 및 VPN</b><small>접속 장소와 방식에 따라 작동</small></div>
+          <div><span class="signal-glyph pink">▰</span><b>외장 드라이브</b><small>선택한 볼륨이 마운트되면 시작</small></div>
+          <div><span class="signal-glyph green">⌁</span><b>CPU 및 네트워크</b><small>활성 연산과 전송 감시</small></div>
+          <div><span class="signal-glyph slate">◷</span><b>시간 및 하드웨어</b><small>일정, 전원, 외부 디스플레이</small></div>
+          <div><span class="signal-glyph orange">⌁</span><b>USB 및 Bluetooth</b><small>선택한 연결 기기 감시</small></div>
+          <div><span class="signal-glyph violet">♫</span><b>오디오 출력</b><small>선택한 출력 경로에 따라 작동</small></div>
+          <div><span class="signal-glyph blue">◎</span><b>DNS 및 IP 네트워크</b><small>서버 주소와 CIDR 범위 확인</small></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section shell drive-section" id="safety">
+      <div class="drive-copy"><span class="kicker">안전 한도가 있는 Drive Alive</span><h2>선택한 외장 드라이브를 활성 상태로.</h2><p>선택한 쓰기 가능한 외장 드라이브에서 작은 표시 파일을 갱신합니다. 다른 앱의 파일은 덮어쓰지 않으며, 비활성화하면 자체 파일을 삭제합니다. 드라이브를 다시 연결해도 정리합니다.</p><ul class="plain-checks"><li>드라이브를 명시적으로 개별 선택</li><li>5, 10, 15, 30, 60분 갱신 간격</li><li>성공 및 쓰기 오류 확인</li><li>배터리, 온도, 시간 한도 유지</li></ul></div>
+      <div class="drive-demo" aria-label="Drive Alive 상태 예시"><div class="demo-toolbar"><span>외장 드라이브</span><b>이 Mac에서 보호</b></div><div class="volume-row"><span class="volume-icon">▰</span><div><strong>보관용 SSD</strong><small>2 TB · 쓰기 가능</small></div><span class="heartbeat"><i></i>활성</span></div><div class="drive-setting"><span>갱신 간격</span><b>15분</b></div><div class="drive-setting"><span>Awakepilot 자체 파일</span><b>확인됨</b></div><div class="timeline"><div><i class="done"></i><span><b>22:00</b> 드라이브 마운트됨</span></div><div><i class="done"></i><span><b>22:00</b> 세션 시작됨</span></div><div><i class="live"></i><span><b>22:15</b> Drive Alive 갱신됨</span></div><div><i></i><span><b>이후</b> 잠자기 방지 종료됨</span></div></div></div>
+    </section>
+
+    <section class="section history-section"><div class="shell history-layout">
+      <div class="history-demo"><div class="history-title"><span>활동 기록</span><small>이 Mac에만 저장</small></div><div class="event-row"><span class="event-dot green"></span><div><b>자동화 시작됨</b><small>프로세스: ffmpeg · CPU 활성</small></div><time>21:42</time></div><div class="event-row"><span class="event-dot blue"></span><div><b>조건 변경됨</b><small>네트워크 활동이 세션에 추가됨</small></div><time>21:48</time></div><div class="event-row"><span class="event-dot orange"></span><div><b>안전 한도 도달</b><small>4시간 후 중지됨</small></div><time>01:42</time></div></div>
+      <div class="history-copy"><span class="kicker">보이는 동작이 만드는 신뢰</span><h2>시작, 중지, 변경을 확인하세요.</h2><p>항상 상태를 이해할 수 있습니다. Awakepilot는 CPU나 네트워크의 모든 샘플로 기록을 채우지 않고 의미 있는 변화를 기록합니다.</p><div class="mini-points"><span><b>200</b> 최근 로컬 이벤트</span><span><b>0</b> 원격 측정 이벤트</span><span><b>클릭 1번</b> 으로 기록 지우기</span></div></div>
+    </div></section>
+
+    <section class="section shell use-cases"><div class="section-heading"><span class="kicker">하나의 도구, 다양한 작업</span><h2>작업이 끝나도록.</h2></div><div class="case-grid">
+      <article><span>↓</span><div><h3>대용량 전송</h3><p>네트워크 활동이나 연결된 백업 드라이브를 감시합니다. 활동이 한도 아래로 유지되거나 드라이브가 해제되면 규칙이 끝납니다.</p></div></article><article><span>⌘</span><div><h3>빌드와 AI 에이전트</h3><p>터미널 프로세스를 이름으로 감시하거나 명령이 실행되는 동안 Mac의 잠자기를 방지합니다.</p></div></article><article><span>▰</span><div><h3>프레젠테이션</h3><p>프레젠테이션 조건이 활성일 때만 화면 켜짐 프로필을 적용합니다.</p></div></article><article><span>↗</span><div><h3>원격 접속</h3><p>전원과 시간 안전 한도를 유지하며 Mac에 접속할 수 있게 합니다.</p></div></article>
+    </div></section>
+
+    <section class="section shell privacy-card"><div class="privacy-copy"><span class="kicker light">개인정보 보호도 기능입니다</span><h2>작업 정보는 Mac에 남습니다.</h2><p>계정, 광고, 분석, 원격 측정이 없습니다. 설정은 로컬에 저장하며, 업데이트 확인과 공식 패키지 다운로드를 위해 Awakepilot 웹사이트에 연결합니다.</p><a class="text-link" href="privacy.html">개인정보 보호 자세히 보기 <span>→</span></a></div><div class="privacy-points">
+      <div><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3 5 6v5c0 4.8 2.9 8.1 7 10 4.1-1.9 7-5.2 7-10V6l-7-3Z"/><path d="m9 12 2 2 4-4"/></svg><span><strong>로컬 설정</strong><small>설정은 macOS 계정에 남습니다.</small></span></div><div><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 12a8 8 0 1 0 16 0 8 8 0 0 0-16 0Z"/><path d="m8 16 8-8"/></svg><span><strong>추적 없음</strong><small>행동 프로필이나 타사 분석이 없습니다.</small></span></div><div><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M7 10V8a5 5 0 0 1 10 0v2M5 10h14v11H5V10Z"/></svg><span><strong>검증된 업데이트</strong><small>설치 전 파일 무결성과 개발자 서명을 확인합니다.</small></span></div>
+    </div></section>
+
+    <section class="section shell final-cta"><img src="../assets/icon-192.png" alt="" width="96" height="96" loading="lazy"><span class="kicker">긴 작업에도 준비 완료</span><h2>Awakepilot로 계속하세요.</h2><p>서명 및 Apple 공증을 마친 macOS 유니버설 버전을 다운로드하세요.</p><div class="hero-actions centered-actions"><a class="button button-large" href="https://awakepilot.codentum.net/download/Awakepilot.dmg"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v12m0 0 5-5m-5 5-5-5M5 21h14"/></svg>Awakepilot 다운로드</a></div><small>응용 프로그램으로 드래그하세요. 계정이나 구독이 필요 없습니다.</small></section>
+  </main>
+
+  <footer class="site-footer"><div class="shell footer-grid"><div class="footer-brand"><a class="brand" href="./"><img src="../assets/icon-192.png" alt="" width="38" height="38"><span>Awakepilot</span></a><p>작업이 계속되는 동안 Mac을 깨어 있게.</p></div><div><strong>제품</strong><a href="#features">기능</a><a href="#automation">자동화</a><a href="pricing.html">가격</a><a href="releases.html">릴리스</a></div><div><strong>자료</strong><a href="support.html">지원</a><a href="privacy.html">개인정보 보호</a><a href="https://awakepilot.codentum.net/download/Awakepilot.dmg">다운로드</a></div></div><div class="shell footer-bottom"><span>© 2026 Awakepilot</span><span>macOS를 위해</span><span class="made-by">제공 <a href="https://codentum.net" rel="noopener"><svg class="codentum-mark" viewBox="0 0 32 32" width="15" height="15" aria-hidden="true" focusable="false"><rect x="3" y="3" width="12" height="12" fill="currentColor"/><rect x="3" y="17" width="12" height="12" fill="currentColor"/><rect x="17" y="17" width="12" height="12" fill="currentColor"/><rect x="19" y="5" width="8" height="8" fill="#2a54d8"/></svg><span>Codentum</span></a></span></div></footer>
+</body>
+</html>
