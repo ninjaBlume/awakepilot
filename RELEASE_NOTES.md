@@ -1,30 +1,21 @@
-# Awakepilot 0.14.3
+# Awakepilot 0.15.0
 
-## Responsive VPN detection
+## Feedback without an account
 
-- VPN checks run in the background with cached results, a two-second timeout, and bounded output. A stalled VPN query no longer blocks the interface.
-- Detection continues to support third-party VPN services registered with macOS.
+Send a bug report, suggest an improvement, or share your experience from the dashboard,
+right-click menu, or About window. The form follows your language and only asks for an
+email address if you want a reply. Failed sends keep the message available for retry.
 
-## Easier automation setup
+## Optional active installation count
 
-- Added five ready-made templates for video encoding, builds, file transfers, downloads, and presentations, with two- or four-hour limits.
-- Saving a template leaves current rules and sessions unchanged. Apply a saved profile to activate its configuration.
-- Automation settings now use separate sections, with expandable USB, Bluetooth, audio, DNS, and IP controls.
+Preferences now includes an installation count setting, off by default. A participating
+Mac sends a random code once per UTC day while Awakepilot is open. No activity history,
+automation rules, hardware IDs, or system measurements are uploaded. Disabling the
+setting stops counting and queues deletion of previous entries when online.
 
-## Portable workflow profiles
+Two Macs count as two installations. Counting and feedback records are separate.
 
-- Export and import complete automation profiles as versioned JSON files.
-- Imports preserve existing profiles, active rules, and running sessions. Conflicting names are renamed, and invalid files are rejected before changes are applied.
-- Exported files may include configured device and network names. Review imported Drive Alive settings before applying a profile.
+## Languages and privacy
 
-## Language-aware links
-
-- Home, support, pricing, and release-note links follow all ten interface languages, including regional language preferences.
-
-## Updating from 0.14.0 or earlier
-
-If **Installing update** remains visible for more than a minute, close **About and Updates**, then quit Awakepilot from its menu bar menu. The prepared update can then finish and relaunch the app. If it does not, install the latest official DMG. Versions 0.14.1 and later include the installation fix.
-
-## Distribution
-
-Universal application for Apple Silicon and Intel, signed with Developer ID and notarized by Apple. Requires macOS 13 or later. The ZIP is used by the in-app updater; the DMG provides drag-to-install setup. SHA-256 files are included for both versioned packages.
+The new controls, feedback form, and privacy explanations support all ten languages.
+Updated product and company privacy notices explain retention, deletion, and hosting.

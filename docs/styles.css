@@ -206,3 +206,23 @@ svg { width: 1.15em; height: 1.15em; fill: none; stroke: currentColor; stroke-wi
 @media (max-width: 640px) { .release { padding: 24px 20px; border-radius: 20px; } .release-head h2 { font-size: 36px; } .release-head time { margin-left: 0; flex-basis: 100%; } }
 
 .footer-company{display:flex;flex-wrap:wrap;align-items:center;gap:8px 20px;padding-top:16px;padding-bottom:28px;color:var(--muted);font-size:.82rem;line-height:1.6}.footer-company a{color:inherit;overflow-wrap:anywhere}
+
+/* Feedback: readable form controls and clear submission state. */
+.feedback-layout{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:28px;padding-bottom:80px;align-items:start}
+#feedback-form{display:flex;flex-direction:column;gap:12px;min-width:0;position:relative}
+#feedback-form label{font-weight:650;margin-top:12px}
+#feedback-form input,#feedback-form textarea,#feedback-form select{width:100%;min-width:0;box-sizing:border-box;border:1px solid #8490a7;border-radius:10px;padding:13px 14px;background:var(--surface-soft);color:var(--ink);font:inherit;line-height:1.5}
+#feedback-form textarea{resize:vertical;min-height:180px}
+#feedback-form :focus-visible{outline:3px solid var(--blue);outline-offset:3px}
+#feedback-form .form-hint{font-size:13px;line-height:1.6;color:var(--muted);margin:0 0 8px}
+#feedback-form .button{align-self:flex-start;margin-top:10px;cursor:pointer;border:0}
+#feedback-form button:disabled{opacity:.65;cursor:wait}
+#feedback-status{overflow-wrap:anywhere;margin:0;min-height:24px;color:var(--green-text)}
+#feedback-status.form-error{color:#b42318}
+.feedback-honeypot{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);pointer-events:none}
+.feedback-aside .legal-card{margin-bottom:24px}
+@media(max-width:760px){.feedback-layout{grid-template-columns:minmax(0,1fr)}#feedback-form{padding:22px}}
+
+.feedback-callout{padding-bottom:24px}.feedback-callout p{color:var(--muted)}
+#feedback-form select{min-height:52px;appearance:none;-webkit-appearance:none;padding-right:42px;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23343b50' stroke-width='2'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");background-position:right 14px center;background-repeat:no-repeat}
+.feedback-aside .text-link{color:var(--ink);text-decoration:underline;text-underline-offset:4px}
