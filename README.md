@@ -26,6 +26,9 @@
   · <a href="https://awakepilot.codentum.net/releases.html"><strong>Release notes</strong></a>
 </p>
 
+The [product website](https://awakepilot.codentum.net/) is available in English, German,
+Spanish, and Turkish, with app screenshots in each language.
+
 ---
 
 ## Wake control that follows real work
