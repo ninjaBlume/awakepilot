@@ -213,6 +213,10 @@ license credentials, and activity history.
 
 Read the full [privacy policy](https://awakepilot.codentum.net/privacy.html).
 
+Product policies: [Terms and Conditions](https://awakepilot.codentum.net/terms.html) ·
+[Refund Policy](https://awakepilot.codentum.net/refund-policy.html).
+Awakepilot is supplied by Codentum L.L.C.; contact `hello@codentum.net`.
+
 ## Verified updates
 
 Before replacing an installed version, Awakepilot verifies:
