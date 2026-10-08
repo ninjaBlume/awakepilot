@@ -12,7 +12,9 @@
       }
     });
     menu.addEventListener('focusout', event => {
-      if (!menu.contains(event.relatedTarget)) menu.open = false;
+      // Safari can blur the summary without focusing the pressed link.
+      // Let that click activate the link before dismissing the dropdown.
+      if (event.relatedTarget && !menu.contains(event.relatedTarget)) menu.open = false;
     });
     for (const link of menu.querySelectorAll('a')) {
       link.addEventListener('click', () => {
