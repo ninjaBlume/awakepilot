@@ -273,3 +273,10 @@ Apple-notarized application. This public repository provides:
 
 Application source code, signing credentials, fulfillment services, and private build
 infrastructure are maintained separately.
+
+## Refund policy
+
+When paid checkout opens, Awakepilot Pro purchases include a 14-day full refund offer.
+Downloading, activating, or using the app does not remove the offer. See the
+[Refund Policy](https://awakepilot.codentum.net/refund-policy.html) for private requests,
+payment processing, license use after a refund, and consumer rights.
