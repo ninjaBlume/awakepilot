@@ -73,7 +73,7 @@ The menu bar clock shows the current state without opening a window:
 | Display policy | Keep the display active or allow it to sleep while the Mac continues working. |
 | Automation | Observe applications, processes, schedules, CPU, network, power, displays, Wi-Fi, VPNs, USB, Bluetooth, audio output, DNS, IP networks, and external drives. |
 | Matching | Start when any enabled condition matches or require all enabled conditions to match. |
-| Workflow profiles | Save complete automation configurations and restore them by name. |
+| Workflow profiles | Save complete configurations, start from five templates, and export or import versioned JSON profiles. |
 | Per-condition behavior | Choose the session profile, display policy, and maximum duration for each signal type. |
 | System metrics | Display live CPU, memory, download, and upload history in the menu bar and dashboard. |
 | Drive Alive | Refresh an Awakepilot-owned marker on explicitly selected writable external drives. |
@@ -137,6 +137,19 @@ network rules stay on the Mac and are excluded from diagnostic exports.
 A workflow profile stores the complete automation configuration rather than a single
 timer. Profiles make it practical to switch between recurring contexts such as remote
 work, large transfers, media exports, presentations, or development builds.
+
+Version 0.14.3 adds five ready-made templates for video encoding, builds, file transfers,
+downloads, and presentations, with two- or four-hour limits. Saving a template leaves
+current rules and sessions unchanged; applying its saved profile activates the settings.
+Automation settings use separate sections with expandable device and network controls.
+
+Profiles can be exported and imported as versioned JSON files. Import preserves existing
+profiles, active rules, and running sessions, renames conflicting profile names, and
+rejects invalid files before making changes. Exports may contain configured device and
+network names; review imported Drive Alive settings before applying a profile.
+
+VPN detection runs in the background with cached results and a two-second timeout,
+so an unresponsive VPN query does not block the interface.
 
 ### Drive Alive
 
