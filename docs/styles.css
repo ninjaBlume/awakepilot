@@ -87,6 +87,7 @@ svg { width: 1.15em; height: 1.15em; fill: none; stroke: currentColor; stroke-wi
 .section-heading { max-width: 760px; margin-bottom: 54px; }.section-heading.centered { margin-inline: auto; text-align: center; }
 .kicker { display: block; margin-bottom: 14px; color: var(--kicker); font-size: 12px; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; }
 .section h2,.legal-hero h1 { margin: 0; font-size: clamp(40px,5vw,60px); line-height: 1.06; letter-spacing: -.045em; }
+.legal-hero h1,.site-footer a { overflow-wrap: anywhere; }
 .section-heading p,.showcase-copy > p { margin: 20px 0 0; color: var(--muted); font-size: 18px; }
 .feature-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 18px; }
 .feature-card { position: relative; min-height: 280px; overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); padding: 28px; box-shadow: 0 10px 36px rgba(25,32,56,.045); }
