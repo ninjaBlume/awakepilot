@@ -16,11 +16,11 @@
 <p align="center">
   <img alt="Apple notarized" src="https://img.shields.io/badge/Apple-Notarized-34C759?style=flat-square&logo=apple&logoColor=white">
   <img alt="Latest GitHub release" src="https://img.shields.io/github/v/release/ninjaBlume/awakepilot?style=flat-square&color=FF9F0A">
-  <img alt="Six interface languages" src="https://img.shields.io/badge/Languages-EN%20%C2%B7%20DE%20%C2%B7%20ES%20%C2%B7%20FR%20%C2%B7%20AZ%20%C2%B7%20TR-5856D6?style=flat-square">
+  <img alt="Ten interface languages" src="https://img.shields.io/badge/Languages-10-5856D6?style=flat-square">
 </p>
 
 <p align="center">
-  <a href="https://github.com/ninjaBlume/awakepilot/releases/latest/download/Awakepilot.dmg"><strong>Download Awakepilot</strong></a>
+  <a href="https://awakepilot.codentum.net/download/Awakepilot.dmg"><strong>Download Awakepilot</strong></a>
   · <a href="https://awakepilot.codentum.net/"><strong>Website</strong></a>
   · <a href="https://awakepilot.codentum.net/support.html"><strong>Support</strong></a>
   · <a href="https://awakepilot.codentum.net/releases.html"><strong>Release notes</strong></a>
@@ -76,7 +76,7 @@ The menu bar clock shows the current state without opening a window:
 | Safety | Pause for battery limits, UPS battery operation, critical thermal pressure, and duration limits. |
 | Activity history | Keep a bounded local record of meaningful starts, stops, pauses, and condition changes. |
 | Updates | Verify checksums, bundle identity, Developer ID, version, and Gatekeeper approval before installation. |
-| Localization | Provide complete English, German, Spanish, French, Azerbaijani, and Turkish interfaces. |
+| Localization | Provide complete English, German, Spanish, French, Azerbaijani, Turkish, Italian, Brazilian Portuguese, Japanese, and Korean interfaces. |
 
 ## Manual sessions
 
@@ -185,8 +185,8 @@ Awakepilot uses native macOS power-management assertions. It does not make persi
 
 Awakepilot contains no advertising, analytics SDK, tracking pixel, or behavioral
 telemetry. Settings and activity history stay in the current macOS user account.
-Automatic update checks contact the public GitHub Releases API only to read release
-metadata and download official assets.
+Awakepilot 0.14.2 and later check for updates and downloads official packages from
+`awakepilot.codentum.net`. Public releases through 0.14.1 continue to use GitHub Releases.
 
 Diagnostic reports are created only after an explicit save action. They exclude command
 text, command output, private file paths, Wi-Fi names, volume names, workflow profile
@@ -223,7 +223,7 @@ install the latest official DMG from the link below.
 
 **Requirements:** macOS 13 Ventura or later on Apple Silicon or Intel.
 
-1. Download the latest [signed and Apple-notarized DMG](https://github.com/ninjaBlume/awakepilot/releases/latest/download/Awakepilot.dmg).
+1. Download the latest [signed and Apple-notarized DMG](https://awakepilot.codentum.net/download/Awakepilot.dmg).
 2. Open the disk image.
 3. Drag **Awakepilot** into **Applications**.
 4. Launch Awakepilot and use the clock icon in the menu bar.

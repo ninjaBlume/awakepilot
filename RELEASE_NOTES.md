@@ -1,21 +1,22 @@
-# Awakepilot 0.14.1
+# Awakepilot 0.14.2
 
-## Reliable updates
+## Ten interface languages
 
-- Fixed installation getting stuck when the About and Updates sheet prevented the app from quitting. The sheet now closes before installation hands over to the updater.
-- If quitting is cancelled, an actionable error appears after five seconds. The installer helper also stops waiting after 30 seconds instead of waiting indefinitely.
-- Automatic checks now run every 24 hours while the app remains open, with a due check after wake. Failed automatic checks retry after an hour; manual checks remain available.
-- Running jobs continue to block installation, including jobs started while an update is being prepared.
+- Added Italian, Brazilian Portuguese, Japanese, and Korean, alongside English, German, Spanish, French, Azerbaijani, and Turkish.
+- Translated all 559 interface strings and the macOS Bluetooth and Wi-Fi permission descriptions in each new language.
+- Adjusted longer Italian and Portuguese picker labels to fit their controls.
+- The English, German, and Turkish website now lists all ten app languages.
 
-## Clearer controls and help
+## Updates on the Awakepilot website
 
-- Revised interface text in English, German, Spanish, French, Azerbaijani, and Turkish, including explanations of screen behavior, activity thresholds, automation matching, and time limits.
-- Improved wrapping for longer settings descriptions.
-- Updated the English, German, and Turkish website, support pages, and screenshots.
+- Update checks and official package downloads now use awakepilot.codentum.net.
+- Release notes open on the website in English, German, or Turkish, according to the app language. Other app languages use English release notes.
+- GitHub Releases remains available so earlier installations can find this update.
+- Existing checksum, Developer ID, bundle identity, and Gatekeeper verification remains in place.
 
 ## Updating from 0.14.0 or earlier
 
-This first update still uses the updater in your installed version. If **Installing update** remains visible for more than a minute, close **About and Updates**, then quit Awakepilot from the menu bar menu. The prepared update can then finish and relaunch the app. If it does not, install the official DMG included below. The installation fix takes effect once 0.14.1 is installed.
+If **Installing update** remains visible for more than a minute, close **About and Updates**, then quit Awakepilot from its menu bar menu. The prepared update can then finish and relaunch the app. If it does not, install the latest official DMG. Versions 0.14.1 and later include the installation fix.
 
 ## Distribution
 
