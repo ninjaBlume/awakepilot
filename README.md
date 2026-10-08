@@ -211,6 +211,18 @@ text, command output, private file paths, Wi-Fi names, volume names, workflow pr
 names, device names, DNS servers, IP rules, watched applications and processes,
 license credentials, and activity history.
 
+Starting with 0.15.0, Preferences includes an optional active installation count,
+disabled by default. A participating installation sends a random code once per UTC
+day while Awakepilot is open. The service stores a keyed hash and date for up to
+90 days; it receives no wake history, automation rules, hardware ID, or system
+measurements. Disabling participation queues deletion of earlier entries. Counts
+represent installations, so two Macs count separately.
+
+**Send feedback** opens a localized form from the dashboard, menu, or About window.
+No account is needed; a reply email and app version are optional. Feedback is stored
+separately from presence records for up to 180 days. The service runs on Cloudflare
+Workers and D1, with Turnstile protection for the form.
+
 Read the full [privacy policy](https://awakepilot.codentum.net/privacy.html).
 
 Product policies: [Terms and Conditions](https://awakepilot.codentum.net/terms.html) ·
