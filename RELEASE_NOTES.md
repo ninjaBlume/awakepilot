@@ -1,21 +1,28 @@
-# Awakepilot 0.15.0
+# Awakepilot 0.15.1
 
-## Feedback without an account
+## Optional closed-lid sessions for MacBook
 
-Send a bug report, suggest an improvement, or share your experience from the dashboard,
-right-click menu, or About window. The form follows your language and only asks for an
-email address if you want a reply. Failed sends keep the message available for retry.
+Keep an active session working with the lid closed, including without an external
+display. The built-in display turns off when the lid closes. This setting is separate
+from **Keep display on** and is off by default.
 
-## Optional active installation count
+Install Awakepilot in Applications, enable **Keep working with the lid closed**, and
+approve its bundled helper in System Settings. Wait until the mode is active before
+closing the lid. Enabling it preserves the current session and its deadline.
 
-Preferences now includes an installation count setting, off by default. A participating
-Mac sends a random code once per UTC day while Awakepilot is open. No activity history,
-automation rules, hardware IDs, or system measurements are uploaded. Disabling the
-setting stops counting and queues deletion of previous entries when online.
+## Sleep restoration and power protection
 
-Two Macs count as two installations. Counting and feedback records are separate.
+The helper uses a renewable, bounded authorization and restores normal sleep when
+the session stops, protection pauses it, or the authorization expires. Recovery
+records allow restoration after a helper restart. Existing sleep overrides are left
+unchanged. Battery rules and independent critical-temperature protection still apply.
 
-## Languages and privacy
+While this mode is active, manual Sleep is also blocked. Stop the session before
+putting your Mac to sleep or transporting it.
 
-The new controls, feedback form, and privacy explanations support all ten languages.
-Updated product and company privacy notices explain retention, deletion, and hosting.
+## Distribution and languages
+
+The controls and status messages support all ten app languages. Apple Silicon and
+Intel packages are signed with Developer ID and notarized by Apple. Automated policy,
+lifecycle, menu, localization, and update-package checks passed. Physical MacBook
+validation of helper approval, lid transitions, and work continuity is still pending.

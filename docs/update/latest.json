@@ -1,31 +1,31 @@
 {
-  "tag_name": "v0.15.0",
-  "name": "Awakepilot 0.15.0",
-  "body": "# Awakepilot 0.15.0\n\n## Feedback without an account\n\nSend a bug report, suggest an improvement, or share your experience from the dashboard,\nright-click menu, or About window. The form follows your language and only asks for an\nemail address if you want a reply. Failed sends keep the message available for retry.\n\n## Optional active installation count\n\nPreferences now includes an installation count setting, off by default. A participating\nMac sends a random code once per UTC day while Awakepilot is open. No activity history,\nautomation rules, hardware IDs, or system measurements are uploaded. Disabling the\nsetting stops counting and queues deletion of previous entries when online.\n\nTwo Macs count as two installations. Counting and feedback records are separate.\n\n## Languages and privacy\n\nThe new controls, feedback form, and privacy explanations support all ten languages.\nUpdated product and company privacy notices explain retention, deletion, and hosting.\n",
-  "published_at": "2026-10-08T18:07:19Z",
+  "tag_name": "v0.15.1",
+  "name": "Awakepilot 0.15.1",
+  "body": "# Awakepilot 0.15.1\n\n## Optional closed-lid sessions for MacBook\n\nKeep an active session working with the lid closed, including without an external\ndisplay. The built-in display turns off when the lid closes. This setting is separate\nfrom **Keep display on** and is off by default.\n\nInstall Awakepilot in Applications, enable **Keep working with the lid closed**, and\napprove its bundled helper in System Settings. Wait until the mode is active before\nclosing the lid. Enabling it preserves the current session and its deadline.\n\n## Sleep restoration and power protection\n\nThe helper uses a renewable, bounded authorization and restores normal sleep when\nthe session stops, protection pauses it, or the authorization expires. Recovery\nrecords allow restoration after a helper restart. Existing sleep overrides are left\nunchanged. Battery rules and independent critical-temperature protection still apply.\n\nWhile this mode is active, manual Sleep is also blocked. Stop the session before\nputting your Mac to sleep or transporting it.\n\n## Distribution and languages\n\nThe controls and status messages support all ten app languages. Apple Silicon and\nIntel packages are signed with Developer ID and notarized by Apple. Automated policy,\nlifecycle, menu, localization, and update-package checks passed. Physical MacBook\nvalidation of helper approval, lid transitions, and work continuity is still pending.\n",
+  "published_at": "2026-10-12T19:31:48Z",
   "assets": [
     {
-      "name": "Awakepilot-0.15.0.zip",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.0.zip",
-      "digest": "sha256:610ec0b28303b0b2ee8df3813c628dadaa5585f8c9dfb14d5c2a7070b8597e9f"
+      "name": "Awakepilot-0.15.1.zip",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.1.zip",
+      "digest": "sha256:5e688d90226e6352bf2ded8d36e4e992354ef22b4463b99ddfb9da7a33209757"
     },
     {
-      "name": "Awakepilot-0.15.0.zip.sha256",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.0.zip.sha256"
+      "name": "Awakepilot-0.15.1.zip.sha256",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.1.zip.sha256"
     },
     {
-      "name": "Awakepilot-0.15.0.dmg",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.0.dmg",
-      "digest": "sha256:3c6fd16ec9225b0e2ad6a385be5a9f9e2c24628676fcf228a42e78928ff08666"
+      "name": "Awakepilot-0.15.1.dmg",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.1.dmg",
+      "digest": "sha256:7d406a487522521c49f2df45666b2baaeebfd35fba842e34a4779fa7b16b5b17"
     },
     {
-      "name": "Awakepilot-0.15.0.dmg.sha256",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.0.dmg.sha256"
+      "name": "Awakepilot-0.15.1.dmg.sha256",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.1.dmg.sha256"
     },
     {
       "name": "Awakepilot.dmg",
       "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot.dmg",
-      "digest": "sha256:3c6fd16ec9225b0e2ad6a385be5a9f9e2c24628676fcf228a42e78928ff08666"
+      "digest": "sha256:7d406a487522521c49f2df45666b2baaeebfd35fba842e34a4779fa7b16b5b17"
     }
   ]
 }

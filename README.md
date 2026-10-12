@@ -71,6 +71,7 @@ The menu bar clock shows the current state without opening a window:
 | --- | --- |
 | Manual sessions | Run indefinitely, for a preset or custom duration, or until an exact date and time. |
 | Display policy | Keep the display active or allow it to sleep while the Mac continues working. |
+| Closed-lid sessions | Optional MacBook mode with an administrator-approved helper, bounded authorization, and sleep restoration. |
 | Automation | Observe applications, processes, schedules, CPU, network, power, displays, Wi-Fi, VPNs, USB, Bluetooth, audio output, DNS, IP networks, and external drives. |
 | Matching | Start when any enabled condition matches or require all enabled conditions to match. |
 | Workflow profiles | Save complete configurations, start from five templates, and export or import versioned JSON profiles. |
@@ -98,6 +99,19 @@ with the screen off while a presentation can keep both the system and display ac
 
 Manual sessions remain independent from automation. A session ends at its deadline,
 when explicitly stopped, or when a configured safety rule pauses wake protection.
+
+## Working with the lid closed
+
+Version 0.15.1 adds an optional MacBook mode that keeps an active session working
+with the lid closed, including without an external display. Install Awakepilot in
+Applications, enable **Keep working with the lid closed**, and approve its helper
+in System Settings. Wait for the mode to become active before closing the lid.
+The built-in display turns off; the session and deadline remain unchanged.
+
+The mode is off by default. While active, it also blocks manual Sleep. Battery and
+thermal protections still apply, and normal sleep returns when the session ends
+or the helper authorization expires. Stop the session before transporting the Mac.
+Automated checks passed; physical MacBook validation remains pending.
 
 ## Work-aware automation
 
