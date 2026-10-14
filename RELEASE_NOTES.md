@@ -1,22 +1,16 @@
-# Awakepilot 0.15.3
+# Awakepilot 0.15.4
 
-## Closed-lid recovery after updating the app
+## Install updates from the right-click menu
 
-Fixes closed-lid mode becoming unavailable after an application update leaves the
-previous helper running from a removed bundle. Awakepilot now waits for the
-approved helper to stop, registers its current executable, and verifies its
-connection before confirming the mode.
+When a newer release is available, the version row in the menu bar right-click
+menu shows the target version and an update action. Clicking it starts downloading
+and installing through the existing verified updater. Progress and errors appear
+in the update window.
 
-Helper registration retries are bounded. An interrupted replacement is resumed
-on the next launch, and reinstalling the same build can repair a stale connection.
-A normal relaunch keeps a confirmed helper running. New installations and revoked
-approval continue to require the normal macOS authorization.
+The row follows update checks and installation progress, including while the menu
+is open. Busy updates cannot be started again, outdated menu actions cannot install
+a different release, and running managed jobs still block installation. Failed
+updates remain retryable. Menu text and update guidance are translated into all
+ten interface languages.
 
-Recovery diagnostics record operation names and error codes without personal
-session or job details. Closed-lid recovery and power protection from 0.15.2 remain
-included.
-
-MacBook Air M5 checks verified replacement through the production installer,
-same-build reinstallation, normal relaunch, and sleep restoration. The dashboard
-was confirmed active. Battery/adapter transitions and Intel runtime checks remain
-pending.
+Closed-lid recovery improvements from 0.15.3 remain included.

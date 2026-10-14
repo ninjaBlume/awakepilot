@@ -1,31 +1,31 @@
 {
-  "tag_name": "v0.15.3",
-  "name": "Awakepilot 0.15.3",
-  "body": "# Awakepilot 0.15.3\n\n## Closed-lid recovery after updating the app\n\nFixes closed-lid mode becoming unavailable after an application update leaves the\nprevious helper running from a removed bundle. Awakepilot now waits for the\napproved helper to stop, registers its current executable, and verifies its\nconnection before confirming the mode.\n\nHelper registration retries are bounded. An interrupted replacement is resumed\non the next launch, and reinstalling the same build can repair a stale connection.\nA normal relaunch keeps a confirmed helper running. New installations and revoked\napproval continue to require the normal macOS authorization.\n\nRecovery diagnostics record operation names and error codes without personal\nsession or job details. Closed-lid recovery and power protection from 0.15.2 remain\nincluded.\n",
-  "published_at": "2026-10-14T04:21:51Z",
+  "tag_name": "v0.15.4",
+  "name": "Awakepilot 0.15.4",
+  "body": "# Awakepilot 0.15.4\n\n## Install updates from the right-click menu\n\nWhen a newer release is available, the version row in the menu bar right-click\nmenu shows the target version and an update action. Clicking it starts downloading\nand installing through the existing verified updater. Progress and errors appear\nin the update window.\n\nThe row follows update checks and installation progress, including while the menu\nis open. Busy updates cannot be started again, outdated menu actions cannot install\na different release, and running managed jobs still block installation. Failed\nupdates remain retryable. Menu text and update guidance are translated into all\nten interface languages.\n\nClosed-lid recovery improvements from 0.15.3 remain included.\n",
+  "published_at": "2026-10-14T06:40:16Z",
   "assets": [
     {
-      "name": "Awakepilot-0.15.3.zip",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.3.zip",
-      "digest": "sha256:3fd373ce3d9e5c01dd09a5e6e28ba72f49747aa2ff272d7f48e884e5db7b790c"
+      "name": "Awakepilot-0.15.4.zip",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.4.zip",
+      "digest": "sha256:7f3c5dce7d819a4dfeaf683f7c288e406ba5bd1a7e302e795b36faa6f4b46dc0"
     },
     {
-      "name": "Awakepilot-0.15.3.zip.sha256",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.3.zip.sha256"
+      "name": "Awakepilot-0.15.4.zip.sha256",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.4.zip.sha256"
     },
     {
-      "name": "Awakepilot-0.15.3.dmg",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.3.dmg",
-      "digest": "sha256:b90862f48020b446d680edf015778b76226bdea61812c1083fa51577ef3ea54a"
+      "name": "Awakepilot-0.15.4.dmg",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.4.dmg",
+      "digest": "sha256:f85df888eb1da029e9f1ee0280784e16c5a46ab819e95f8c2aa779ee3b85807e"
     },
     {
-      "name": "Awakepilot-0.15.3.dmg.sha256",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.3.dmg.sha256"
+      "name": "Awakepilot-0.15.4.dmg.sha256",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.4.dmg.sha256"
     },
     {
       "name": "Awakepilot.dmg",
       "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot.dmg",
-      "digest": "sha256:b90862f48020b446d680edf015778b76226bdea61812c1083fa51577ef3ea54a"
+      "digest": "sha256:f85df888eb1da029e9f1ee0280784e16c5a46ab819e95f8c2aa779ee3b85807e"
     }
   ]
 }

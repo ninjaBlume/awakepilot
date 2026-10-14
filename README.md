@@ -81,7 +81,7 @@ The menu bar clock shows the current state without opening a window:
 | Command protection | Keep the Mac awake for the exact lifetime of a command through bounded wake leases. |
 | Safety | Pause for battery limits, UPS battery operation, critical thermal pressure, and duration limits. |
 | Activity history | Keep a bounded local record of meaningful starts, stops, pauses, and condition changes. |
-| Updates | Verify checksums, bundle identity, Developer ID, version, and Gatekeeper approval before installation. |
+| Updates | Show available releases in the right-click version row and start installation with one click. Verify checksums, bundle identity, Developer ID, version, and Gatekeeper approval. |
 | Localization | Provide complete English, German, Spanish, French, Azerbaijani, Turkish, Italian, Brazilian Portuguese, Japanese, and Korean interfaces. |
 
 ## Manual sessions
@@ -249,6 +249,12 @@ Product policies: [Terms and Conditions](https://awakepilot.codentum.net/terms.h
 Awakepilot is supplied by Codentum L.L.C.; contact `hello@codentum.net`.
 
 ## Verified updates
+
+Starting in 0.15.4, an available update appears in the right-click menu’s version
+row. Click it to start downloading and installing; the update window shows
+progress and errors. The menu follows update progress, and failed updates can be
+retried. Running managed jobs continue to block installation.
+
 
 Before replacing an installed version, Awakepilot verifies:
 
