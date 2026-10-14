@@ -111,7 +111,10 @@ The built-in display turns off; the session and deadline remain unchanged.
 The mode is off by default. While active, it also blocks manual Sleep. Battery and
 thermal protections still apply, and normal sleep returns when the session ends
 or the helper authorization expires. Stop the session before transporting the Mac.
-Automated checks passed; physical MacBook validation remains pending.
+Version 0.15.2 fixes helper recovery after restart and the repeated authorization
+button on the dashboard. MacBook Air M5 checks verified helper restart and sleep
+restoration when switching the mode off/on. Battery/adapter transitions, timed
+sessions, full crash recovery, and Intel runtime checks remain pending.
 
 ## Work-aware automation
 
