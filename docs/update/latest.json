@@ -1,31 +1,31 @@
 {
-  "tag_name": "v0.15.1",
-  "name": "Awakepilot 0.15.1",
-  "body": "# Awakepilot 0.15.1\n\n## Optional closed-lid sessions for MacBook\n\nKeep an active session working with the lid closed, including without an external\ndisplay. The built-in display turns off when the lid closes. This setting is separate\nfrom **Keep display on** and is off by default.\n\nInstall Awakepilot in Applications, enable **Keep working with the lid closed**, and\napprove its bundled helper in System Settings. Wait until the mode is active before\nclosing the lid. Enabling it preserves the current session and its deadline.\n\n## Sleep restoration and power protection\n\nThe helper uses a renewable, bounded authorization and restores normal sleep when\nthe session stops, protection pauses it, or the authorization expires. Recovery\nrecords allow restoration after a helper restart. Existing sleep overrides are left\nunchanged. Battery rules and independent critical-temperature protection still apply.\n\nWhile this mode is active, manual Sleep is also blocked. Stop the session before\nputting your Mac to sleep or transporting it.\n\n## Distribution and languages\n\nThe controls and status messages support all ten app languages. Apple Silicon and\nIntel packages are signed with Developer ID and notarized by Apple. Automated policy,\nlifecycle, menu, localization, and update-package checks passed. Physical MacBook\nvalidation of helper approval, lid transitions, and work continuity is still pending.\n",
-  "published_at": "2026-10-12T19:31:48Z",
+  "tag_name": "v0.15.2",
+  "name": "Awakepilot 0.15.2",
+  "body": "# Awakepilot 0.15.2\n\n## Closed-lid recovery\n\nFixes closed-lid mode failing to recover after its helper restarts. The dashboard\nnow keeps a stable recovery message during retries and only shows the authorization\nbutton when the helper needs installation or approval.\n\nOn a MacBook Air M5, the corrected helper restarted successfully and the dashboard\nreturned to active mode. Switching closed-lid mode off restored normal sleep;\nswitching it on reacquired the override while preserving the active unlimited\nsession's start time. Earlier operator checks reported working closed-lid sessions\nwith and without an external display. Battery/adapter transitions, timed-session\nand lid-transition preservation, full crash recovery, and Intel runtime checks\nremain open.\n\nInstall the update in Applications and wait for **Closed-lid mode is active** before\nclosing the lid. If the old helper is still running after the update, restart your\nMac to load the corrected helper.\n",
+  "published_at": "2026-10-14T03:13:59Z",
   "assets": [
     {
-      "name": "Awakepilot-0.15.1.zip",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.1.zip",
-      "digest": "sha256:5e688d90226e6352bf2ded8d36e4e992354ef22b4463b99ddfb9da7a33209757"
+      "name": "Awakepilot-0.15.2.zip",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.2.zip",
+      "digest": "sha256:7e8caa1d8e6fa06eee91b615462491857ed1783b7662760acb7c50c2a540bfe0"
     },
     {
-      "name": "Awakepilot-0.15.1.zip.sha256",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.1.zip.sha256"
+      "name": "Awakepilot-0.15.2.zip.sha256",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.2.zip.sha256"
     },
     {
-      "name": "Awakepilot-0.15.1.dmg",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.1.dmg",
-      "digest": "sha256:7d406a487522521c49f2df45666b2baaeebfd35fba842e34a4779fa7b16b5b17"
+      "name": "Awakepilot-0.15.2.dmg",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.2.dmg",
+      "digest": "sha256:b36905046c5128227574a81020bb0eae0716bfe516ba73f127ce09b1ae1a67f2"
     },
     {
-      "name": "Awakepilot-0.15.1.dmg.sha256",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.1.dmg.sha256"
+      "name": "Awakepilot-0.15.2.dmg.sha256",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.15.2.dmg.sha256"
     },
     {
       "name": "Awakepilot.dmg",
       "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot.dmg",
-      "digest": "sha256:7d406a487522521c49f2df45666b2baaeebfd35fba842e34a4779fa7b16b5b17"
+      "digest": "sha256:b36905046c5128227574a81020bb0eae0716bfe516ba73f127ce09b1ae1a67f2"
     }
   ]
 }
