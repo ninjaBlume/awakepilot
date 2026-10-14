@@ -1,19 +1,22 @@
-# Awakepilot 0.15.2
+# Awakepilot 0.15.3
 
-## Closed-lid recovery
+## Closed-lid recovery after updating the app
 
-Fixes closed-lid mode failing to recover after its helper restarts. The dashboard
-now keeps a stable recovery message during retries and only shows the authorization
-button when the helper needs installation or approval.
+Fixes closed-lid mode becoming unavailable after an application update leaves the
+previous helper running from a removed bundle. Awakepilot now waits for the
+approved helper to stop, registers its current executable, and verifies its
+connection before confirming the mode.
 
-On a MacBook Air M5, the corrected helper restarted successfully and the dashboard
-returned to active mode. Switching closed-lid mode off restored normal sleep;
-switching it on reacquired the override while preserving the active unlimited
-session's start time. Earlier operator checks reported working closed-lid sessions
-with and without an external display. Battery/adapter transitions, timed-session
-and lid-transition preservation, full crash recovery, and Intel runtime checks
-remain open.
+Helper registration retries are bounded. An interrupted replacement is resumed
+on the next launch, and reinstalling the same build can repair a stale connection.
+A normal relaunch keeps a confirmed helper running. New installations and revoked
+approval continue to require the normal macOS authorization.
 
-Install the update in Applications and wait for **Closed-lid mode is active** before
-closing the lid. If the old helper is still running after the update, restart your
-Mac to load the corrected helper.
+Recovery diagnostics record operation names and error codes without personal
+session or job details. Closed-lid recovery and power protection from 0.15.2 remain
+included.
+
+MacBook Air M5 checks verified replacement through the production installer,
+same-build reinstallation, normal relaunch, and sleep restoration. The dashboard
+was confirmed active. Battery/adapter transitions and Intel runtime checks remain
+pending.

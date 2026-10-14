@@ -113,8 +113,10 @@ thermal protections still apply, and normal sleep returns when the session ends
 or the helper authorization expires. Stop the session before transporting the Mac.
 Version 0.15.2 fixes helper recovery after restart and the repeated authorization
 button on the dashboard. MacBook Air M5 checks verified helper restart and sleep
-restoration when switching the mode off/on. Battery/adapter transitions, timed
-sessions, full crash recovery, and Intel runtime checks remain pending.
+restoration when switching the mode off/on. Version 0.15.3 automatically refreshes
+the approved helper after app replacement; update, same-build reinstall, normal
+relaunch, and sleep restoration were verified on the MacBook Air M5.
+Battery/adapter transitions, timed sessions, full crash recovery, and Intel runtime checks remain pending.
 
 ## Work-aware automation
 
