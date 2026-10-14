@@ -226,3 +226,29 @@ svg { width: 1.15em; height: 1.15em; fill: none; stroke: currentColor; stroke-wi
 .feedback-callout{padding-bottom:24px}.feedback-callout p{color:var(--muted)}
 #feedback-form select{min-height:52px;appearance:none;-webkit-appearance:none;padding-right:42px;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23343b50' stroke-width='2'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");background-position:right 14px center;background-repeat:no-repeat}
 .feedback-aside .text-link{color:var(--ink);text-decoration:underline;text-underline-offset:4px}
+
+/* Product narrative: current access, bounded workflows, and command lifetime. */
+.hero-access{font-size:14px;line-height:1.65;color:var(--ink-soft);max-width:590px;margin:18px 0 0}
+.hero-access a{display:inline-block;color:#1d59c4;font-weight:650;text-underline-offset:3px}
+.hero-visual{margin-bottom:100px}
+.preview-caption{position:absolute;top:100%;left:0;width:100%;margin:22px 0 0;color:var(--muted);font-size:12px;line-height:1.7}
+.workflow-card h3{font-size:22px;line-height:1.25;margin:0 0 20px}
+.workflow-card>p{min-height:0;margin:14px 0;color:var(--ink-soft);line-height:1.7}
+.workflow-card>p:last-child{border-top:1px solid var(--line);padding-top:14px;font-size:12px;color:var(--muted)}
+.workflow-note{margin-top:24px;color:var(--muted);line-height:1.7;font-size:14px;max-width:1000px}
+.command-example{padding:24px;border:1px solid var(--line);border-radius:16px;background:var(--surface-soft);font-size:14px;white-space:pre-wrap;overflow-wrap:anywhere;min-width:0}
+.command-flow{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin-top:28px}
+.command-flow article{padding:24px;border:1px solid var(--line);border-radius:20px;background:var(--surface)}
+.command-flow h3{font-size:21px;line-height:1.3;margin:18px 0 12px}
+.command-flow p{font-size:14px;line-height:1.7;color:var(--ink-soft)}
+.closed-lid-section{border-top:1px solid var(--line)}
+.closed-lid-section p{max-width:960px;color:var(--ink-soft);font-size:17px;line-height:1.7}
+.current-access{padding:28px;border:1px solid var(--line);border-radius:22px;background:var(--surface-soft);margin-bottom:30px}
+.current-access p{margin:0 0 16px;line-height:1.75;color:var(--ink-soft)}
+.current-access p:last-child{margin-bottom:0;font-weight:650}
+.pricing-hero h1{max-width:1000px;margin-inline:auto}
+.current-release-context{margin-bottom:28px;color:var(--ink-soft);font-size:15px;line-height:1.7}
+.legal-card .notarization-explainer{font-size:14px;color:var(--muted)}
+@media(max-width:1020px){.hero-access{margin-inline:auto}.command-flow{grid-template-columns:1fr}}
+@media(max-width:480px){.current-access,.command-example,.command-flow article{padding:20px}.hero-actions{margin-top:24px}.hero-visual{margin-bottom:120px}}
+.hero-actions .button:not(.button-ghost),.nav-actions .button,.price-copy .button{color:var(--ink)}

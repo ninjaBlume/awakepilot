@@ -109,14 +109,19 @@ in System Settings. Wait for the mode to become active before closing the lid.
 The built-in display turns off; the session and deadline remain unchanged.
 
 The mode is off by default. While active, it also blocks manual Sleep. Battery and
-thermal protections still apply, and normal sleep returns when the session ends
-or the helper authorization expires. Stop the session before transporting the Mac.
+thermal protections still apply. When the session ends or the helper lease expires,
+the prior global sleep setting is restored; existing overrides are preserved.
+If restoration is not confirmed, keep the lid open while it retries.
+Stop the session before transporting the Mac or placing it in a bag, and keep it ventilated.
 Version 0.15.2 fixes helper recovery after restart and the repeated authorization
 button on the dashboard. MacBook Air M5 checks verified helper restart and sleep
 restoration when switching the mode off/on. Version 0.15.3 automatically refreshes
 the approved helper after app replacement; update, same-build reinstall, normal
 relaunch, and sleep restoration were verified on the MacBook Air M5.
-Battery/adapter transitions, timed sessions, full crash recovery, and Intel runtime checks remain pending.
+October 14 checks on MacBook Air M5/macOS 26.6 measured a timed lid close/reopen
+cycle, a 50% battery pause with adapter resume, and controlled app/helper recovery.
+Intel runtime, macOS 13 runtime, physical UPS transitions, and fully measured
+permission revocation remain pending. See the [current support guidance](https://awakepilot.codentum.net/support.html#sleep).
 
 ## Work-aware automation
 
@@ -212,11 +217,32 @@ every lease has a maximum time to live of 24 hours.
 - UPS-aware sessions can pause while the UPS supplies battery power.
 - Critical thermal pressure releases the wake assertion immediately.
 - Automatic sessions can enforce a hard maximum duration.
-- Choosing **Sleep**, critical battery protection, and supported closed-display behavior
-  remain under macOS control.
+- In standard mode, choosing **Sleep** and closing the lid remain under macOS control.
+- The optional closed-lid mode also blocks manual Sleep while active; battery and
+  thermal protection still apply.
 
-Awakepilot uses native macOS power-management assertions. It does not make persistent
-`pmset` changes and does not require administrator privileges.
+Standard sessions use native macOS power-management assertions without persistent
+power changes or administrator privileges. The optional closed-lid helper requires
+administrator approval and temporarily changes the global sleep setting, then restores
+its prior state when its protection ends.
+
+## Free use and the Pro trial
+
+The current public 0.15.4 download has no charge. Manual/timed sessions, command
+leases, metrics, and local activity history remain available without Pro. The
+14-day Pro trial starts on first launch. When expired status is validated,
+automation rules and Drive Alive stop while their settings are retained. A free
+download does not provide unlimited Pro access.
+
+The current release validates trial status at app startup and has no continuous
+license-refresh timer. An app left open may not enforce the precise expiry
+boundary; restarting refreshes its displayed status. Continuous validation is
+tracked as a remaining application fix.
+
+Pro purchasing and private purchase restoration are not open. App links currently
+open information pages. The planned USD 29 one-time personal license covers the
+purchased major version on up to two Macs; paid future major upgrades must be
+disclosed before purchase. See [pricing](https://awakepilot.codentum.net/pricing.html).
 
 ## Privacy by design
 
