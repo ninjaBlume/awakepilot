@@ -228,16 +228,16 @@ its prior state when its protection ends.
 
 ## Free use and the Pro trial
 
-The current public 0.15.4 download has no charge. Manual/timed sessions, command
+The current public 0.16.0 download has no charge. Manual/timed sessions, command
 leases, metrics, and local activity history remain available without Pro. The
 14-day Pro trial starts on first launch. When expired status is validated,
 automation rules and Drive Alive stop while their settings are retained. A free
 download does not provide unlimited Pro access.
 
-The current release validates trial status at app startup and has no continuous
-license-refresh timer. An app left open may not enforce the precise expiry
-boundary; restarting refreshes its displayed status. Continuous validation is
-tracked as a remaining application fix.
+Trial and time-limited license status refresh automatically while Awakepilot
+runs, after wake, and when the system clock changes. Restarting is not needed
+to apply expiry. Pro rules and Drive Alive stop when access expires; manual
+sessions and command leases remain available.
 
 Pro purchasing and private purchase restoration are not open. App links currently
 open information pages. The planned USD 29 one-time personal license covers the
