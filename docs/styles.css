@@ -246,13 +246,9 @@ svg { width: 1.15em; height: 1.15em; fill: none; stroke: currentColor; stroke-wi
 .current-access{padding:28px;border:1px solid var(--line);border-radius:22px;background:var(--surface-soft);margin-bottom:30px}
 .current-access p{margin:0 0 16px;line-height:1.75;color:var(--ink-soft)}
 .current-access p:last-child{margin-bottom:0;font-weight:650}
-.regional-pricing{margin-block:30px 38px;padding:28px;border:1px solid var(--line);border-radius:22px;background:#fff}
-.regional-pricing h2{margin-top:0;font-size:24px}
-.regional-pricing p{color:var(--muted);line-height:1.75}
-.regional-prices{margin:20px 0}
-.regional-prices>div{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:8px 20px;padding:14px 0;border-bottom:1px solid var(--line)}
-.regional-prices dt{font-weight:650;overflow-wrap:anywhere}
-.regional-prices dd{margin:0;font-weight:800;white-space:nowrap;font-variant-numeric:tabular-nums}
+.payment-details{margin-block:30px 38px;color:var(--muted);line-height:1.75}
+.location-price [hidden]{display:none}
+.location-price [data-price-status]{font-size:16px;line-height:1.6;color:var(--muted)}
 .price{flex-wrap:wrap}.price strong{font-size:clamp(38px,5vw,60px);white-space:nowrap}
 .pricing-hero h1{max-width:1000px;margin-inline:auto}
 .current-release-context{margin-bottom:28px;color:var(--ink-soft);font-size:15px;line-height:1.7}
