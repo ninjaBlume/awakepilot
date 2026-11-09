@@ -9,8 +9,8 @@
   <meta name="theme-color" content="#101419">
   <title>Awakepilot · Yönetim</title>
   <link rel="icon" href="https://awakepilot.codentum.net/assets/icon-192.png">
-  <link rel="stylesheet" href="./admin.css">
-  <script src="./admin.js" defer></script>
+  <link rel="stylesheet" href="./admin.css?v=20261109-2">
+  <script src="./admin.js?v=20261109-2" defer></script>
 </head>
 <body>
   <a class="skip" href="#main">İçeriğe geç</a>
@@ -39,9 +39,15 @@
           <article class="metric accent"><span>Kayıtlı geri bildirim</span><strong id="feedback-total">—</strong><small>Son 180 günden kalan mesajlar</small></article>
         </div>
         <p class="measurement-note">Bu sayılar toplam indirme veya kullanıcı sayısı değildir. Yalnızca uygulamada gönüllü sayıma katılan aktif kurulumlar görünür; iki Mac iki kurulum sayılır.</p>
+        <nav class="panel-jump" aria-label="Panel bölümleri"><a href="#inbox-title">Geri bildirimler ↓</a><a href="#system-title">Yayın ve hizmetler ↓</a></nav>
+        <section class="panel system" aria-labelledby="system-title">
+          <div class="section-heading"><div><h2 id="system-title">Yayın ve hizmetler</h2><p>Canlı erişim kontrolleri</p></div><span id="health-summary" class="badge">Henüz kontrol edilmedi</span></div>
+          <div class="system-grid"><div class="release-info"><span class="eyebrow">Yayımdaki Mac sürümü</span><strong id="release-version">—</strong><p id="release-published">Yayın bilgisi bekleniyor.</p><a id="release-link" class="button secondary" href="https://awakepilot.codentum.net/tr/releases.html" hidden>Sürüm notları ↗</a><small id="health-updated"></small></div><div id="service-checks" class="service-checks" role="list" aria-label="Hizmet durumu"></div></div>
+        </section>
         <section class="panel trend" aria-labelledby="trend-title"><div class="section-heading"><div><h2 id="trend-title">Günlük hareket</h2><p>Son 30 gün · UTC günleri</p></div><span class="legend"><span class="dot"></span>Aktif gönüllü kurulum</span></div><div id="chart"></div><div class="chart-labels"><span id="chart-start"></span><span>Bugün</span></div><details><summary>Günlük sayıları göster</summary><div class="table-wrap"><table><caption>UTC günlerine göre aktif gönüllü kurulumlar</caption><thead><tr><th scope="col">Gün</th><th scope="col">Kurulum</th></tr></thead><tbody id="daily-rows"></tbody></table></div></details></section>
         <section class="panel inbox" aria-labelledby="inbox-title"><div class="section-heading"><div><h2 id="inbox-title">Geri bildirim kutusu</h2><p>En yeni 100 mesaj · Mesaj saatleri Türkiye saati</p></div><span id="visible-count" class="badge">0 mesaj</span></div>
-          <div class="filters"><div><label for="search">Mesajlarda ara</label><input id="search" type="search" placeholder="Mesaj, e-posta veya sürüm…" maxlength="200"></div><div><label for="category">Konu</label><select id="category"><option value="all">Tüm konular</option><option value="bug">Hata bildirimi</option><option value="suggestion">Öneri</option><option value="general">Genel</option></select></div></div>
+          <div class="workflow-counts" aria-label="Geri bildirim durumları"><span>Yeni <strong id="state-new">—</strong></span><span>İnceleniyor <strong id="state-in_review">—</strong></span><span>Çözüldü <strong id="state-resolved">—</strong></span></div>
+          <div class="filters"><div><label for="search">Mesajlarda ara</label><input id="search" type="search" placeholder="Mesaj, not, e-posta veya sürüm…" maxlength="200"></div><div><label for="category">Konu</label><select id="category"><option value="all">Tüm konular</option><option value="bug">Hata bildirimi</option><option value="suggestion">Öneri</option><option value="general">Genel</option></select></div><div><label for="state-filter">Durum</label><select id="state-filter"><option value="all">Tüm durumlar</option><option value="new">Yeni</option><option value="in_review">İnceleniyor</option><option value="resolved">Çözüldü</option></select></div></div>
           <div id="feedback"></div>
         </section>
       </section>
