@@ -228,7 +228,7 @@ its prior state when its protection ends.
 
 ## Free use and the Pro trial
 
-The current public 0.16.0 download has no charge. Manual/timed sessions, command
+The current public 0.16.1 download has no charge. Manual/timed sessions, command
 leases, metrics, and local activity history remain available without Pro. The
 14-day Pro trial starts on first launch. When expired status is validated,
 automation rules and Drive Alive stop while their settings are retained. A free

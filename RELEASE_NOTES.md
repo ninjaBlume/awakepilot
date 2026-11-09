@@ -1,11 +1,9 @@
-# Awakepilot 0.16.0
+# Awakepilot 0.16.1
 
-A new fox icon brings the Mac app into line with the website branding.
+Change an active manual session from its status card: end in 15, 30 or 60 minutes, extend a timed session by 30 minutes, or continue indefinitely without restarting it.
 
-Trial and time-limited license status now refresh while the app stays open, after wake, and when the clock changes. Expiry stops Pro automation and Drive Alive while preserving saved settings, manual sessions, and command leases.
+System metrics now sit directly below the session status. Active profiles use a compact row, while power protections and closed-lid warnings remain available.
 
-The Mac includes an optional iPhone remote-control host with QR pairing and explicit Mac approval. The iPhone app remains in developer testing; no App Store or TestFlight download is published.
+Turkish battery readings and battery-threshold messages now include the percent sign.
 
-A local update can carry an active manual session over once, preserving its start and deadline without changing the launch preference.
-
-The iPhone companion is not yet available from the App Store or TestFlight. Pro purchasing and private purchase restoration remain closed. Intel and macOS 13 physical runtime acceptance remain pending.
+Dashboard sections provide accessible headings, and preferences can be exported to a JSON file without including licenses, pairing keys or active sessions.
