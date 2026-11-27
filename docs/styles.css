@@ -256,3 +256,15 @@ svg { width: 1.15em; height: 1.15em; fill: none; stroke: currentColor; stroke-wi
 @media(max-width:1020px){.hero-access{margin-inline:auto}.command-flow{grid-template-columns:1fr}}
 @media(max-width:480px){.current-access,.command-example,.command-flow article{padding:20px}.hero-actions{margin-top:24px}.hero-visual{margin-bottom:120px}}
 .hero-actions .button:not(.button-ghost),.nav-actions .button,.price-copy .button{color:var(--ink)}
+
+/* Free iPhone companion, alongside the Mac product. */
+.remote-section{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:64px;align-items:start;border-top:1px solid var(--line);scroll-margin-top:96px}
+.remote-brand{display:flex;align-items:center;gap:12px;margin-bottom:28px;font-size:18px;font-weight:700}.remote-brand img{border-radius:12px}
+.remote-section h2{font-size:clamp(32px,4vw,50px);line-height:1.12;letter-spacing:-.035em;margin:16px 0 24px}.remote-intro{color:var(--ink-soft);font-size:18px;line-height:1.7}
+.remote-features{padding-left:22px;margin:22px 0 28px;color:var(--ink-soft);line-height:1.7}.remote-features li+li{margin-top:12px}
+.remote-section .button{color:var(--ink);max-width:100%;white-space:normal;text-align:center}.remote-free{color:var(--muted);font-size:13px;line-height:1.6;margin:14px 0 32px}
+.remote-copy h3{font-size:21px;margin:30px 0 16px}.remote-steps{padding-left:24px;line-height:1.7;color:var(--ink-soft)}.remote-steps li{padding-left:6px;margin:12px 0}
+.remote-limits{padding:18px 20px;background:var(--surface-soft);border:1px solid var(--line);border-radius:14px;font-size:14px;line-height:1.7;color:var(--ink-soft)}.remote-requirements{font-size:13px;line-height:1.7;color:var(--muted)}.remote-support{font-size:14px;color:var(--ink);text-underline-offset:4px}
+.remote-preview{margin:0;display:flex;align-items:center;flex-direction:column;gap:16px;padding:28px;border:1px solid var(--line);border-radius:28px;background:var(--surface-soft)}.remote-preview img{display:block;width:100%;max-width:300px;height:auto;border-radius:22px}.remote-preview figcaption{font-size:12px;line-height:1.6;color:var(--muted);text-align:center}
+@media(max-width:900px){.remote-section{grid-template-columns:1fr;gap:32px}.remote-preview{max-width:390px;width:100%;box-sizing:border-box;margin-inline:auto}.remote-preview img{max-width:260px}}
+@media(max-width:480px){.remote-preview{padding:20px}.remote-section h2{font-size:34px}.remote-section{scroll-margin-top:82px}}
