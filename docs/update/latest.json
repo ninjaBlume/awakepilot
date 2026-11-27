@@ -1,31 +1,31 @@
 {
-  "tag_name": "v0.16.2",
-  "name": "Awakepilot 0.16.2",
-  "body": "# Awakepilot 0.16.2\n\nThis maintenance release improves the reliability of macOS packaging and signing.\n\nApp bundles are packaged outside synced folders to prevent Finder and file-provider metadata from disrupting code-signature verification.\n\nClosed-lid sessions now explicitly put the built-in display to sleep when no external display is connected, while keeping the Mac awake.\n",
-  "published_at": "2026-11-27T10:02:11Z",
+  "tag_name": "v0.17.0",
+  "name": "Awakepilot 0.17.0",
+  "body": "# Awakepilot 0.17.0\n\nProtect an existing process or a browser download from the dashboard until the observed work ends. Protections are independent, bounded by a chosen duration, and never terminate the watched work.\n\nApplication rules can optionally match only the frontmost selected app. A default-off preference allows sleep while the screen is locked, preserving the session's original deadline.\n\nAutomatic-policy changes preserve the session's safety budget. Drive Alive refuses foreign binary files, symbolic links and hard links when refreshing its marker. Existing battery warnings, thermal safeguards and direct-edition capabilities are preserved.\n\nThe power panel now shows battery warnings at 30% and 20%, thermal status and notification controls. Awakepilot does not control charging.\n",
+  "published_at": "2026-11-27T13:47:31Z",
   "assets": [
     {
-      "name": "Awakepilot-0.16.2.zip",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.16.2.zip",
-      "digest": "sha256:ab4c01bdb2954169f006fa6b0beb114c32c207b67eadc33176f5880c93f7e502"
+      "name": "Awakepilot-0.17.0.zip",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.17.0.zip",
+      "digest": "sha256:cb523a2171b2e3fc5b2cc7c3e4c643acc3834b954e5ba521aba1a7533133dd92"
     },
     {
-      "name": "Awakepilot-0.16.2.zip.sha256",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.16.2.zip.sha256"
+      "name": "Awakepilot-0.17.0.zip.sha256",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.17.0.zip.sha256"
     },
     {
-      "name": "Awakepilot-0.16.2.dmg",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.16.2.dmg",
-      "digest": "sha256:705e9874725c8d89be6192af90ea960db9711d07c1a871a4674558dea7dee499"
+      "name": "Awakepilot-0.17.0.dmg",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.17.0.dmg",
+      "digest": "sha256:1ff2610ba6bf8bd9933e053f48550df49c064c34b05555cb0a5b8690e543891c"
     },
     {
-      "name": "Awakepilot-0.16.2.dmg.sha256",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.16.2.dmg.sha256"
+      "name": "Awakepilot-0.17.0.dmg.sha256",
+      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.17.0.dmg.sha256"
     },
     {
       "name": "Awakepilot.dmg",
       "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot.dmg",
-      "digest": "sha256:705e9874725c8d89be6192af90ea960db9711d07c1a871a4674558dea7dee499"
+      "digest": "sha256:1ff2610ba6bf8bd9933e053f48550df49c064c34b05555cb0a5b8690e543891c"
     }
   ]
 }

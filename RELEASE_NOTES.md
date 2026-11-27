@@ -1,7 +1,9 @@
-# Awakepilot 0.16.2
+# Awakepilot 0.17.0
 
-This maintenance release improves the reliability of macOS packaging and signing.
+Protect an existing process or a browser download from the dashboard until the observed work ends. Protections are independent, bounded by a chosen duration, and never terminate the watched work.
 
-App bundles are packaged outside synced folders to prevent Finder and file-provider metadata from disrupting code-signature verification.
+Application rules can optionally match only the frontmost selected app. A default-off preference allows sleep while the screen is locked, preserving the session's original deadline.
 
-Closed-lid sessions now explicitly put the built-in display to sleep when no external display is connected, while keeping the Mac awake.
+Automatic-policy changes preserve the session's safety budget. Drive Alive refuses foreign binary files, symbolic links and hard links when refreshing its marker. Existing battery warnings, thermal safeguards and direct-edition capabilities are preserved.
+
+The power panel now shows battery warnings at 30% and 20%, thermal status and notification controls. Awakepilot does not control charging.
