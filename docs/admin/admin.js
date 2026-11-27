@@ -9,7 +9,7 @@
   const apiOrigin = 'https://api-awakepilot.codentum.net';
   const el = id => document.getElementById(id);
   if (!el('service-checks') || !el('state-filter')) {
-    const link = document.createElement('a'); link.href = 'https://awakepilot.codentum.net/admin/?v=20261109-2';
+    const link = document.createElement('a'); link.href = 'https://awakepilot.app/admin/?v=20261109-2';
     link.textContent = 'Panel güncellendi. Güncel paneli aç.';
     document.body.replaceChildren(link); return;
   }
@@ -103,7 +103,7 @@
     el('release-version').textContent = data.release?.version || '—';
     el('release-published').textContent = data.release?.publishedAt ? 'Yayın: '+dateTime.format(new Date(data.release.publishedAt)) : 'Yayın tarihi alınamadı.';
     el('release-link').hidden = !data.release;
-    if (data.release && /^\d+\.\d+\.\d+$/.test(data.release.version)) el('release-link').href = 'https://awakepilot.codentum.net/tr/releases.html#v'+data.release.version.replaceAll('.','-');
+    if (data.release && /^\d+\.\d+\.\d+$/.test(data.release.version)) el('release-link').href = 'https://awakepilot.app/tr/releases.html#v'+data.release.version.replaceAll('.','-');
   }
   function renderFeedback() {
     const active = document.activeElement, focusID = active?.id, selection = typeof active?.selectionStart === 'number' ? [active.selectionStart,active.selectionEnd] : null;

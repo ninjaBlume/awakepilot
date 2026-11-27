@@ -6,25 +6,25 @@
   "assets": [
     {
       "name": "Awakepilot-0.17.0.zip",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.17.0.zip",
+      "browser_download_url": "https://awakepilot.app/download/Awakepilot-0.17.0.zip",
       "digest": "sha256:cb523a2171b2e3fc5b2cc7c3e4c643acc3834b954e5ba521aba1a7533133dd92"
     },
     {
       "name": "Awakepilot-0.17.0.zip.sha256",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.17.0.zip.sha256"
+      "browser_download_url": "https://awakepilot.app/download/Awakepilot-0.17.0.zip.sha256"
     },
     {
       "name": "Awakepilot-0.17.0.dmg",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.17.0.dmg",
+      "browser_download_url": "https://awakepilot.app/download/Awakepilot-0.17.0.dmg",
       "digest": "sha256:1ff2610ba6bf8bd9933e053f48550df49c064c34b05555cb0a5b8690e543891c"
     },
     {
       "name": "Awakepilot-0.17.0.dmg.sha256",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot-0.17.0.dmg.sha256"
+      "browser_download_url": "https://awakepilot.app/download/Awakepilot-0.17.0.dmg.sha256"
     },
     {
       "name": "Awakepilot.dmg",
-      "browser_download_url": "https://awakepilot.codentum.net/download/Awakepilot.dmg",
+      "browser_download_url": "https://awakepilot.app/download/Awakepilot.dmg",
       "digest": "sha256:1ff2610ba6bf8bd9933e053f48550df49c064c34b05555cb0a5b8690e543891c"
     }
   ]

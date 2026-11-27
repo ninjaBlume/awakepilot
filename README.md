@@ -20,13 +20,13 @@
 </p>
 
 <p align="center">
-  <a href="https://awakepilot.codentum.net/download/Awakepilot.dmg"><strong>Download Awakepilot</strong></a>
-  · <a href="https://awakepilot.codentum.net/"><strong>Website</strong></a>
-  · <a href="https://awakepilot.codentum.net/support.html"><strong>Support</strong></a>
-  · <a href="https://awakepilot.codentum.net/releases.html"><strong>Release notes</strong></a>
+  <a href="https://awakepilot.app/download/Awakepilot.dmg"><strong>Download Awakepilot</strong></a>
+  · <a href="https://awakepilot.app/"><strong>Website</strong></a>
+  · <a href="https://awakepilot.app/support.html"><strong>Support</strong></a>
+  · <a href="https://awakepilot.app/releases.html"><strong>Release notes</strong></a>
 </p>
 
-The [product website](https://awakepilot.codentum.net/) matches all ten application
+The [product website](https://awakepilot.app/) matches all ten application
 languages: English, German, Spanish, Turkish, French, Azerbaijani, Italian, Brazilian
 Portuguese, Japanese, and Korean. Each language includes localized app screenshots,
 pricing, support, privacy information, and the complete release history.
@@ -121,7 +121,7 @@ relaunch, and sleep restoration were verified on the MacBook Air M5.
 October 14 checks on MacBook Air M5/macOS 26.6 measured a timed lid close/reopen
 cycle, a 50% battery pause with adapter resume, and controlled app/helper recovery.
 Intel runtime, macOS 13 runtime, physical UPS transitions, and fully measured
-permission revocation remain pending. See the [current support guidance](https://awakepilot.codentum.net/support.html#sleep).
+permission revocation remain pending. See the [current support guidance](https://awakepilot.app/support.html#sleep).
 
 ## Work-aware automation
 
@@ -242,7 +242,7 @@ sessions and command leases remain available.
 Pro purchasing and private purchase restoration are not open. App links currently
 open information pages. The planned USD 29 one-time personal license covers the
 purchased major version on up to two Macs; paid future major upgrades must be
-disclosed before purchase. See [pricing](https://awakepilot.codentum.net/pricing.html).
+disclosed before purchase. See [pricing](https://awakepilot.app/pricing.html).
 
 ## Privacy by design
 
@@ -268,10 +268,10 @@ No account is needed; a reply email and app version are optional. Feedback is st
 separately from presence records for up to 180 days. The service runs on Cloudflare
 Workers and D1, with Turnstile protection for the form.
 
-Read the full [privacy policy](https://awakepilot.codentum.net/privacy.html).
+Read the full [privacy policy](https://awakepilot.app/privacy.html).
 
-Product policies: [Terms and Conditions](https://awakepilot.codentum.net/terms.html) ·
-[Refund Policy](https://awakepilot.codentum.net/refund-policy.html).
+Product policies: [Terms and Conditions](https://awakepilot.app/terms.html) ·
+[Refund Policy](https://awakepilot.app/refund-policy.html).
 Awakepilot is supplied by Codentum L.L.C.; contact `hello@codentum.net`.
 
 ## Verified updates
@@ -308,7 +308,7 @@ install the latest official DMG from the link below.
 
 **Requirements:** macOS 13 Ventura or later on Apple Silicon or Intel.
 
-1. Download the latest [signed and Apple-notarized DMG](https://awakepilot.codentum.net/download/Awakepilot.dmg).
+1. Download the latest [signed and Apple-notarized DMG](https://awakepilot.app/download/Awakepilot.dmg).
 2. Open the disk image.
 3. Drag **Awakepilot** into **Applications**.
 4. Launch Awakepilot and use the clock icon in the menu bar.
@@ -318,8 +318,8 @@ Settings → General → Language & Region**, including app-specific language se
 
 ## Support
 
-- [Installation and troubleshooting](https://awakepilot.codentum.net/support.html)
-- [Release history](https://awakepilot.codentum.net/releases.html)
+- [Installation and troubleshooting](https://awakepilot.app/support.html)
+- [Release history](https://awakepilot.app/releases.html)
 - [Report a reproducible problem](https://github.com/ninjaBlume/awakepilot/issues/new/choose)
 - [Security policy](SECURITY.md)
 
@@ -345,5 +345,5 @@ infrastructure are maintained separately.
 
 When paid checkout opens, Awakepilot Pro purchases include a 14-day full refund offer.
 Downloading, activating, or using the app does not remove the offer. See the
-[Refund Policy](https://awakepilot.codentum.net/refund-policy.html) for private requests,
+[Refund Policy](https://awakepilot.app/refund-policy.html) for private requests,
 payment processing, license use after a refund, and consumer rights.

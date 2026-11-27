@@ -1,1203 +1,1203 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://awakepilot.codentum.net/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/" />
+    <loc>https://awakepilot.app/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/" />
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://awakepilot.codentum.net/de/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/es/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/tr/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/fr/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/az/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/it/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/pt-BR/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ja/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ko/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/pricing.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/pricing.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/de/pricing.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/pricing.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/es/pricing.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/pricing.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/tr/pricing.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/pricing.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/fr/pricing.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/pricing.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/az/pricing.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/pricing.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/it/pricing.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/pricing.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/pt-BR/pricing.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/pricing.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ja/pricing.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/pricing.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ko/pricing.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/pricing.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/pricing.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/support.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/support.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/support.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/support.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/support.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/support.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/support.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/support.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/support.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/support.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/support.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/de/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/support.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/support.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/support.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/support.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/support.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/support.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/support.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/support.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/support.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/support.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/support.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/es/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/support.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/support.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/support.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/support.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/support.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/support.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/support.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/support.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/support.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/support.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/support.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/tr/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/support.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/support.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/support.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/support.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/support.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/support.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/support.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/support.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/support.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/support.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/support.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/fr/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/support.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/support.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/support.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/support.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/support.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/support.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/support.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/support.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/support.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/support.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/support.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/az/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/support.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/support.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/support.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/support.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/support.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/support.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/support.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/support.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/support.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/support.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/support.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/it/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/support.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/support.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/support.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/support.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/support.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/support.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/support.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/support.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/support.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/support.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/support.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/pt-BR/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/support.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/support.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/support.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/support.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/support.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/support.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/support.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/support.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/support.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/support.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/support.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ja/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/support.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/support.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/support.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/support.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/support.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/support.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/support.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/support.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/support.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/support.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/support.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ko/support.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/support.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/support.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/support.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/support.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/support.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/support.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/support.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/support.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/support.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/support.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/support.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/privacy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/de/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/privacy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/es/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/privacy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/tr/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/privacy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/fr/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/privacy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/az/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/privacy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/it/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/privacy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/pt-BR/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/privacy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ja/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/privacy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ko/privacy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/privacy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/privacy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/releases.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/releases.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/releases.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/releases.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/releases.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/releases.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/releases.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/releases.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/de/releases.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/releases.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/releases.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/releases.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/releases.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/releases.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/releases.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/releases.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/es/releases.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/releases.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/releases.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/releases.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/releases.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/releases.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/releases.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/releases.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/tr/releases.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/releases.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/releases.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/releases.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/releases.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/releases.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/releases.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/releases.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/fr/releases.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/releases.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/releases.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/releases.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/releases.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/releases.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/releases.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/releases.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/az/releases.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/releases.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/releases.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/releases.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/releases.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/releases.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/releases.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/releases.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/it/releases.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/releases.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/releases.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/releases.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/releases.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/releases.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/releases.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/releases.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/pt-BR/releases.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/releases.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/releases.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/releases.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/releases.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/releases.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/releases.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/releases.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ja/releases.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/releases.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/releases.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/releases.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/releases.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/releases.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/releases.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/releases.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ko/releases.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/releases.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/releases.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/releases.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/releases.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/releases.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/releases.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/releases.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/releases.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/releases.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/refund-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/de/refund-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/es/refund-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/tr/refund-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/fr/refund-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/az/refund-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/it/refund-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/pt-BR/refund-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ja/refund-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ko/refund-policy.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/refund-policy.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/refund-policy.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/terms.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/terms.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/terms.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/terms.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/terms.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/terms.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/terms.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/terms.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/de/terms.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/terms.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/terms.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/terms.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/terms.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/terms.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/terms.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/terms.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/es/terms.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/terms.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/terms.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/terms.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/terms.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/terms.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/terms.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/terms.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/tr/terms.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/terms.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/terms.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/terms.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/terms.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/terms.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/terms.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/terms.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/fr/terms.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/terms.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/terms.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/terms.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/terms.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/terms.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/terms.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/terms.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/az/terms.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/terms.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/terms.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/terms.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/terms.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/terms.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/terms.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/terms.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/it/terms.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/terms.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/terms.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/terms.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/terms.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/terms.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/terms.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/terms.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/pt-BR/terms.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/terms.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/terms.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/terms.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/terms.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/terms.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/terms.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/terms.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ja/terms.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/terms.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/terms.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/terms.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/terms.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/terms.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/terms.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/terms.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ko/terms.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/terms.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/terms.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/terms.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/terms.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/terms.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/terms.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/terms.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/terms.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/terms.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/feedback.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/feedback.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/de/feedback.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/feedback.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/es/feedback.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/feedback.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/tr/feedback.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/feedback.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/fr/feedback.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/feedback.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/az/feedback.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/feedback.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/it/feedback.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/feedback.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/pt-BR/feedback.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/feedback.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ja/feedback.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/feedback.html" />
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://awakepilot.codentum.net/ko/feedback.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.codentum.net/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.codentum.net/de/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.codentum.net/es/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.codentum.net/tr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.codentum.net/fr/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.codentum.net/az/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.codentum.net/it/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.codentum.net/pt-BR/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.codentum.net/ja/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.codentum.net/ko/feedback.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.codentum.net/feedback.html" />
+    <loc>https://awakepilot.app/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/az/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/it/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/pt-BR/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/pricing.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/de/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/pricing.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/es/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/pricing.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/tr/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/pricing.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/fr/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/pricing.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/az/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/pricing.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/it/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/pricing.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/pt-BR/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/pricing.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ja/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/pricing.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ko/pricing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/pricing.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/pricing.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/support.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/support.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/support.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/support.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/support.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/support.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/support.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/support.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/support.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/support.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/support.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/de/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/support.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/support.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/support.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/support.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/support.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/support.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/support.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/support.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/support.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/support.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/support.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/es/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/support.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/support.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/support.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/support.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/support.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/support.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/support.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/support.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/support.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/support.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/support.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/tr/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/support.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/support.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/support.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/support.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/support.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/support.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/support.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/support.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/support.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/support.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/support.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/fr/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/support.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/support.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/support.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/support.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/support.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/support.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/support.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/support.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/support.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/support.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/support.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/az/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/support.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/support.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/support.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/support.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/support.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/support.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/support.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/support.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/support.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/support.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/support.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/it/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/support.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/support.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/support.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/support.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/support.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/support.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/support.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/support.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/support.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/support.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/support.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/pt-BR/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/support.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/support.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/support.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/support.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/support.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/support.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/support.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/support.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/support.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/support.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/support.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ja/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/support.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/support.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/support.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/support.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/support.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/support.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/support.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/support.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/support.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/support.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/support.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ko/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/support.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/support.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/support.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/support.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/support.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/support.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/support.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/support.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/support.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/support.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/support.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/privacy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/de/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/privacy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/es/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/privacy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/tr/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/privacy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/fr/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/privacy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/az/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/privacy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/it/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/privacy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/pt-BR/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/privacy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ja/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/privacy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ko/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/privacy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/releases.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/releases.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/releases.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/releases.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/releases.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/releases.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/releases.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/releases.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/de/releases.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/releases.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/releases.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/releases.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/releases.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/releases.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/releases.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/releases.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/es/releases.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/releases.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/releases.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/releases.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/releases.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/releases.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/releases.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/releases.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/tr/releases.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/releases.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/releases.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/releases.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/releases.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/releases.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/releases.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/releases.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/fr/releases.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/releases.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/releases.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/releases.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/releases.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/releases.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/releases.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/releases.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/az/releases.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/releases.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/releases.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/releases.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/releases.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/releases.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/releases.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/releases.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/it/releases.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/releases.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/releases.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/releases.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/releases.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/releases.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/releases.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/releases.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/pt-BR/releases.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/releases.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/releases.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/releases.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/releases.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/releases.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/releases.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/releases.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ja/releases.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/releases.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/releases.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/releases.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/releases.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/releases.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/releases.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/releases.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ko/releases.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/releases.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/releases.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/releases.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/releases.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/releases.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/releases.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/releases.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/releases.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/releases.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/refund-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/refund-policy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/de/refund-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/refund-policy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/es/refund-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/refund-policy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/tr/refund-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/refund-policy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/fr/refund-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/refund-policy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/az/refund-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/refund-policy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/it/refund-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/refund-policy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/pt-BR/refund-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/refund-policy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ja/refund-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/refund-policy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ko/refund-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/refund-policy.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/refund-policy.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/terms.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/terms.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/terms.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/terms.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/terms.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/terms.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/terms.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/de/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/terms.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/terms.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/terms.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/terms.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/terms.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/terms.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/terms.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/es/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/terms.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/terms.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/terms.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/terms.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/terms.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/terms.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/terms.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/tr/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/terms.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/terms.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/terms.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/terms.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/terms.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/terms.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/terms.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/fr/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/terms.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/terms.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/terms.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/terms.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/terms.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/terms.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/terms.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/az/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/terms.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/terms.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/terms.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/terms.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/terms.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/terms.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/terms.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/it/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/terms.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/terms.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/terms.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/terms.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/terms.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/terms.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/terms.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/pt-BR/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/terms.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/terms.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/terms.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/terms.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/terms.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/terms.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/terms.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ja/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/terms.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/terms.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/terms.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/terms.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/terms.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/terms.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/terms.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ko/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/terms.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/terms.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/terms.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/terms.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/terms.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/terms.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/terms.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/feedback.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/feedback.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/de/feedback.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/feedback.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/es/feedback.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/feedback.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/tr/feedback.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/feedback.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/fr/feedback.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/feedback.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/az/feedback.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/feedback.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/it/feedback.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/feedback.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/pt-BR/feedback.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/feedback.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ja/feedback.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/feedback.html" />
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://awakepilot.app/ko/feedback.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://awakepilot.app/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://awakepilot.app/de/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://awakepilot.app/es/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://awakepilot.app/tr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://awakepilot.app/fr/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="az" href="https://awakepilot.app/az/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://awakepilot.app/it/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://awakepilot.app/pt-BR/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://awakepilot.app/ja/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://awakepilot.app/ko/feedback.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://awakepilot.app/feedback.html" />
     <priority>0.7</priority>
   </url>
 </urlset>
